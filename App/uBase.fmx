@@ -6,7 +6,7 @@ object frmBase: TfrmBase
   ClientWidth = 640
   FormFactor.Width = 320
   FormFactor.Height = 480
-  FormFactor.Devices = [Desktop, iPhone, iPad, AndroidPhone, AndroidTablet]
+  FormFactor.Devices = [Desktop, iPhone, iPad]
   OnCreate = FormCreate
   OnShow = FormShow
   OnActivate = FormActivate

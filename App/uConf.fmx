@@ -7,7 +7,7 @@ object frmConf: TfrmConf
   Fill.Kind = Solid
   FormFactor.Width = 320
   FormFactor.Height = 480
-  FormFactor.Devices = [Desktop, iPhone, iPad, AndroidPhone, AndroidTablet]
+  FormFactor.Devices = [Desktop, iPhone, iPad]
   OnCreate = FormCreate
   OnKeyUp = FormKeyUp
   OnShow = FormShow
