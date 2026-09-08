@@ -35,7 +35,6 @@ begin
   begin
     try
       FBluetooth := TBluetooth.Create(nil);
-      FBluetooth.Enabled := true;
     except
       on E: Exception do
       begin

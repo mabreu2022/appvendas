@@ -134,3 +134,6 @@ Coordinates=659,276,101,36
 []
 Coordinates=659,331,91,36
 
+[dmBanco.qryEmpresa]
+Visible=False
+

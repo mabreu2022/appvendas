@@ -673,8 +673,8 @@ var
   vComboBoxList: TList<TComboBox>;
 begin
   try
-    Bluetooth1.Enabled := True;
-    ListarDispositivosPareadosNoCombo;
+    if Bluetooth1.Enabled then
+      ListarDispositivosPareadosNoCombo;
   except
     on E: Exception do
       BootLog('Bluetooth1 init error: ' + E.Message);

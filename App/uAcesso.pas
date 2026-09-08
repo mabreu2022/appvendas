@@ -1,4 +1,4 @@
-unit uAcesso;
+﻿unit uAcesso;
 interface
 uses
   System.SysUtils, System.Types, System.UITypes, System.Classes,

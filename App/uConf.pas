@@ -131,11 +131,6 @@ begin
   Edit3.Text := dmBanco.serial;
   Edit4.Text := dmBanco.qryConfRECIBO.AsString;
 
-  try
-    CarregarImpressora;
-  except
-  end;
-
   with ComboBox1, ComboBox1.Items do
   begin
     if (dmBanco.qryConfIMPRESSORA.AsString <> '') and (IndexOf(dmBanco.qryConfIMPRESSORA.AsString) >= 0) then
