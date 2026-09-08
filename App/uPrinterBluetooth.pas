@@ -33,8 +33,15 @@ class procedure TClsPrinterBluetooth.SetDispositivo;
 begin
   if not Assigned(FBluetooth) then
   begin
-    FBluetooth := TBluetooth.Create(nil);
-    FBluetooth.Enabled := true;
+    try
+      FBluetooth := TBluetooth.Create(nil);
+      FBluetooth.Enabled := true;
+    except
+      on E: Exception do
+      begin
+        FreeAndNil(FBluetooth);
+      end;
+    end;
   end;
 end;
 
@@ -42,11 +49,17 @@ class function TClsPrinterBluetooth.ListarDispositivosPareados : TStringList;
 var
   lDevice: TBluetoothDevice;
 begin
-  SetDispositivo;
   Result := TStringList.Create;
-  for lDevice in FBluetooth.PairedDevices do
-  begin
-    Result.Add(lDevice.DeviceName);
+  try
+    SetDispositivo;
+    if Assigned(FBluetooth) and FBluetooth.Enabled and (FBluetooth.PairedDevices <> nil) then
+    begin
+      for lDevice in FBluetooth.PairedDevices do
+      begin
+        Result.Add(lDevice.DeviceName);
+      end;
+    end;
+  except
   end;
 end;
 
@@ -54,14 +67,21 @@ class function TClsPrinterBluetooth.ObterDevicePeloNome(pNomeDevice: String): TB
 var
   lDevice: TBluetoothDevice;
 begin
-  SetDispositivo;
   Result := nil;
-  for lDevice in FBluetooth.PairedDevices do
-  begin
-    if lDevice.DeviceName = pNomeDevice then
+  try
+    SetDispositivo;
+    if Assigned(FBluetooth) and FBluetooth.Enabled and (FBluetooth.PairedDevices <> nil) then
     begin
-      Result := lDevice;
+      for lDevice in FBluetooth.PairedDevices do
+      begin
+        if lDevice.DeviceName = pNomeDevice then
+        begin
+          Result := lDevice;
+          Break;
+        end;
+      end;
     end;
+  except
   end;
 end;
 

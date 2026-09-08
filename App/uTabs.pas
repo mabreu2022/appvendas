@@ -427,7 +427,8 @@ uses
   uReceberRecCmd,
   uSincronizar,
   uPrinterBluetooth,
-  uValueObject;
+  uValueObject,
+  uBootLog;
 
 const
   cTipoFatura: array[TTipoFatura] of string = ('Aberto', 'Receber');
@@ -671,8 +672,13 @@ procedure TfrmTabs.FormCreate(Sender: TObject);
 var
   vComboBoxList: TList<TComboBox>;
 begin
-  Bluetooth1.Enabled := True;
-  ListarDispositivosPareadosNoCombo;
+  try
+    Bluetooth1.Enabled := True;
+    ListarDispositivosPareadosNoCombo;
+  except
+    on E: Exception do
+      BootLog('Bluetooth1 init error: ' + E.Message);
+  end;
   SetComboTipoDesc;
   SetComboTipoValor;
   SetComboTipoDocto;
@@ -680,8 +686,12 @@ begin
   SetComboDoctoBanco;
   SetComboDoctoConta;
   vComboBoxList := TList<TComboBox>.Create;
-  vComboBoxList.AddRange([ComboBoxTipoDocto, ComboBoxTipoMoeda, ComboBoxBancoDocto, ComboBoxContaDocto]);
-  SetComboDoctoColor(vComboBoxList);
+  try
+    vComboBoxList.AddRange([ComboBoxTipoDocto, ComboBoxTipoMoeda, ComboBoxBancoDocto, ComboBoxContaDocto]);
+    SetComboDoctoColor(vComboBoxList);
+  finally
+    vComboBoxList.Free;
+  end;
 end;
 
 procedure TfrmTabs.ImageCloseClick(Sender: TObject);
@@ -1448,13 +1458,14 @@ var
 begin
   try
     cbxDevices.Clear;
-    if Bluetooth1.PairedDevices.Count > 0 then
+    if Assigned(Bluetooth1) and Bluetooth1.Enabled and (Bluetooth1.PairedDevices <> nil) and (Bluetooth1.PairedDevices.Count > 0) then
     begin
       for lDevice in Bluetooth1.PairedDevices do
         cbxDevices.Items.Add(lDevice.DeviceName);
     end;
   except
-
+    on E: Exception do
+      BootLog('ListarDispositivosPareadosNoCombo error: ' + E.Message);
   end;
 end;
 
@@ -1724,9 +1735,20 @@ var
   lDevice: TBluetoothDevice;
 begin
   Result := nil;
-  for lDevice in Bluetooth1.PairedDevices do
-    if lDevice.DeviceName = ANomeDevice then
-      Result := lDevice;
+  try
+    if Assigned(Bluetooth1) and Bluetooth1.Enabled and (Bluetooth1.PairedDevices <> nil) then
+    begin
+      for lDevice in Bluetooth1.PairedDevices do
+        if lDevice.DeviceName = ANomeDevice then
+        begin
+          Result := lDevice;
+          Break;
+        end;
+    end;
+  except
+    on E: Exception do
+      BootLog('ObterDevicePeloNome error: ' + E.Message);
+  end;
 end;
 
 procedure TfrmTabs.CloseMenu(ARecMenu, ARecSubMenu: TRectangle);
