@@ -1,0 +1,351 @@
+<log>
+<data>13/09/2020 13:47:16</data>
+<tipo>Debug</tipo>
+<metodo>amb: TEST / sub: CLI / data: C:\Projetos\Delphi\camargo\FVENDAS\DadosCopia\CLI_DADOS_COPIA.FDB / user: SYSDBA / pass: masterkey</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:47:16</data>
+<tipo>Debug</tipo>
+<metodo>amb: TEST / sub: FB / data: C:\Projetos\Delphi\camargo\FVENDAS\DadosCopia\FB_DADOS_COPIA.FDB / user: SYSDBA / pass: masterkey</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:47:16</data>
+<tipo>Info</tipo>
+<metodo>entrada</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:47:26</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:47:31</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:47:36</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:47:41</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:47:46</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:47:51</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:47:56</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:48:02</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:48:07</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:48:12</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:48:17</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:48:22</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:48:27</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:48:32</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:48:37</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:48:42</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:48:48</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:48:53</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:48:58</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:49:03</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:49:08</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:49:13</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:49:18</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:49:23</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:49:28</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:49:33</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:49:39</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:49:44</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:49:49</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:49:54</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:49:59</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:50:04</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:50:09</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:50:14</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:50:19</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/09/2020 13:50:24</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+

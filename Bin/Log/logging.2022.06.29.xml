@@ -1,0 +1,3389 @@
+<log>
+<data>29/06/2022 07:15:52</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:15:52</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:40:30</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:40:30</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:40:30</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:40:35</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:40:38</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:40:38</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:40:38</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:40:38</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:40:54</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:40:54</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_CAD_CLIENTE</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:40:56</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_CONDPGTOC</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:40:56</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:40:56</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:40:56</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_FCR_REC_FV</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:40:56</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:41:28</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:41:28</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:41:29</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:41:34</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:47:38</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:53:42</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:56:29</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:56:29</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:56:29</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:56:29</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:56:45</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:56:45</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_CAD_CLIENTE</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:56:47</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_CONDPGTOC</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:56:47</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:56:47</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:56:47</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_FCR_REC_FV</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:56:47</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:59:13</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_BANCO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:59:13</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_CONTA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:59:13</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_MOEDA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:59:13</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 07:59:13</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao efetuar consulta / pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+CAD_RECIBO
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>29/06/2022 07:59:13</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar recibos</metodo>
+<message>TfrmMain.AtualizaRecibo</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+CAD_RECIBO
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>29/06/2022 07:59:45</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:05:46</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:11:46</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:14:13</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:14:13</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:14:13</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:14:13</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:14:30</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:14:30</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_CAD_CLIENTE</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:14:31</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_CONDPGTOC</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:14:31</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:14:31</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:14:32</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_FCR_REC_FV</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:14:32</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:16:59</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_BANCO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:16:59</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_CONTA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:16:59</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_MOEDA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:16:59</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:16:59</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao efetuar consulta / pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+CAD_RECIBO
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>29/06/2022 08:16:59</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar recibos</metodo>
+<message>TfrmMain.AtualizaRecibo</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+CAD_RECIBO
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>29/06/2022 08:17:47</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:23:47</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:29:51</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:31:59</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:31:59</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:31:59</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:32:00</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:32:16</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:32:16</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_CAD_CLIENTE</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:32:18</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_CONDPGTOC</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:32:18</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:32:18</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:32:18</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_FCR_REC_FV</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:32:18</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:41:34</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:42:16</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:42:45</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:44:29</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:44:40</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:44:40</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:44:40</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:44:40</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:44:57</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:44:57</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_CAD_CLIENTE</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:44:59</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_CONDPGTOC</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:44:59</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:44:59</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:44:59</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_FCR_REC_FV</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:44:59</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:47:25</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_BANCO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:47:25</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_CONTA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:47:25</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_MOEDA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:47:25</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:49:13</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao efetuar consulta / pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+CAD_RECIBO
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>29/06/2022 08:49:13</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar recibos</metodo>
+<message>TfrmMain.AtualizaRecibo</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+CAD_RECIBO
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>29/06/2022 08:49:13</data>
+<tipo>Debug</tipo>
+<metodo>Cmd: GET /getempresa HTTP/1.1 / Met: GET / URI: /getempresa</metodo>
+<message>TfrmMain.ServerCommandGet</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:49:13</data>
+<tipo>Debug</tipo>
+<metodo>GET / URI: /getempresa / JSONStr: </metodo>
+<message>TfrmMain.ServerCommandGet</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:49:13</data>
+<tipo>Debug</tipo>
+<metodo>Cmd: GET /favicon.ico HTTP/1.1 / Met: GET / URI: /favicon.ico</metodo>
+<message>TfrmMain.ServerCommandGet</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:49:13</data>
+<tipo>Debug</tipo>
+<metodo>GET / URI: /favicon.ico / JSONStr: </metodo>
+<message>TfrmMain.ServerCommandGet</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:49:48</data>
+<tipo>Debug</tipo>
+<metodo>Cmd: GET /Getempresa HTTP/1.1 / Met: GET / URI: /Getempresa</metodo>
+<message>TfrmMain.ServerCommandGet</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:49:49</data>
+<tipo>Debug</tipo>
+<metodo>GET / URI: /Getempresa / JSONStr: </metodo>
+<message>TfrmMain.ServerCommandGet</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:49:49</data>
+<tipo>Debug</tipo>
+<metodo>Cmd: GET /favicon.ico HTTP/1.1 / Met: GET / URI: /favicon.ico</metodo>
+<message>TfrmMain.ServerCommandGet</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:49:49</data>
+<tipo>Debug</tipo>
+<metodo>GET / URI: /favicon.ico / JSONStr: </metodo>
+<message>TfrmMain.ServerCommandGet</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:50:01</data>
+<tipo>Debug</tipo>
+<metodo>Cmd: GET /GetEmpresa HTTP/1.1 / Met: GET / URI: /GetEmpresa</metodo>
+<message>TfrmMain.ServerCommandGet</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:50:17</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:50:18</data>
+<tipo>Debug</tipo>
+<metodo>Cmd: GET /GetEmpresas HTTP/1.1 / Met: GET / URI: /GetEmpresas</metodo>
+<message>TfrmMain.ServerCommandGet</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:50:18</data>
+<tipo>Debug</tipo>
+<metodo>GET / URI: /GetEmpresas / JSONStr: </metodo>
+<message>TfrmMain.ServerCommandGet</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:50:20</data>
+<tipo>Debug</tipo>
+<metodo>Cmd: GET /favicon.ico HTTP/1.1 / Met: GET / URI: /favicon.ico</metodo>
+<message>TfrmMain.ServerCommandGet</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:50:20</data>
+<tipo>Debug</tipo>
+<metodo>GET / URI: /favicon.ico / JSONStr: </metodo>
+<message>TfrmMain.ServerCommandGet</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:50:21</data>
+<tipo>Debug</tipo>
+<metodo>GET / URI: /GetEmpresa / JSONStr: [{"RowId":1,"rowid":1,"codemp":1,"nome":"PUENTE KYJHA AUTO REPUESTOS","nomefantasia":"P.KYJHA AUTO REPUESTOS","endertplograd":"RUA","enderlograd":"","endernumlograd":"","endercomplemento":"","enderbairro":"CENTRO","codcidade":2,"numtelefone":"047230266\/0983110149","usuario":90001,"dataatu":"2021-02-26","horaatu":"09:24:35","inexportador":"N\u00C3O","docfiscal":"78963206","docfiscalreprlegal":"","nomereprlegal":"","tpreprlegal":"F","nacionalidade":"","estadocivil":"","docidentidade":""},{"RowId":2,"rowid":2,"codemp":2,"nome":"PUENTE KYJHA AUTO REPUESTOS","nomefantasia":"PUENTE KYJHA AUTO REPUESTOS - LOJA 2","endertplograd":"RUA","enderlograd":"","endernumlograd":"","endercomplemento":"","enderbairro":"","codcidade":0,"numtelefone":"047230266\/0983110149","usuario":90001,"dataatu":"2021-02-26","horaatu":"09:24:43","inexportador":"","docfiscal":"78963206","docfiscalreprlegal":"","nomereprlegal":"","tpreprlegal":"","nacionalidade":"","estadocivil":"","docidentidade":""}]</metodo>
+<message>TfrmMain.ServerCommandGet</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:50:32</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:50:46</data>
+<tipo>Debug</tipo>
+<metodo>Cmd: GET /Getempresa HTTP/1.1 / Met: GET / URI: /Getempresa</metodo>
+<message>TfrmMain.ServerCommandGet</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:50:46</data>
+<tipo>Debug</tipo>
+<metodo>GET / URI: /Getempresa / JSONStr: </metodo>
+<message>TfrmMain.ServerCommandGet</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:50:46</data>
+<tipo>Debug</tipo>
+<metodo>Cmd: GET /favicon.ico HTTP/1.1 / Met: GET / URI: /favicon.ico</metodo>
+<message>TfrmMain.ServerCommandGet</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:50:46</data>
+<tipo>Debug</tipo>
+<metodo>GET / URI: /favicon.ico / JSONStr: </metodo>
+<message>TfrmMain.ServerCommandGet</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:51:10</data>
+<tipo>Debug</tipo>
+<metodo>Cmd: GET /GetEmpresa HTTP/1.1 / Met: GET / URI: /GetEmpresa</metodo>
+<message>TfrmMain.ServerCommandGet</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:51:19</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:51:31</data>
+<tipo>Debug</tipo>
+<metodo>GET / URI: /GetEmpresa / JSONStr: [{"RowId":1,"rowid":1,"codemp":1,"nome":"PUENTE KYJHA AUTO REPUESTOS","nomefantasia":"P.KYJHA AUTO REPUESTOS","endertplograd":"RUA","enderlograd":"","endernumlograd":"","endercomplemento":"","enderbairro":"CENTRO","codcidade":2,"numtelefone":"047230266\/0983110149","usuario":90001,"dataatu":"2021-02-26","horaatu":"09:24:35","inexportador":"N\u00C3O","docfiscal":"78963206","docfiscalreprlegal":"","nomereprlegal":"","tpreprlegal":"F","nacionalidade":"","estadocivil":"","docidentidade":""},{"RowId":2,"rowid":2,"codemp":2,"nome":"PUENTE KYJHA AUTO REPUESTOS","nomefantasia":"PUENTE KYJHA AUTO REPUESTOS - LOJA 2","endertplograd":"RUA","enderlograd":"","endernumlograd":"","endercomplemento":"","enderbairro":"","codcidade":0,"numtelefone":"047230266\/0983110149","usuario":90001,"dataatu":"2021-02-26","horaatu":"09:24:43","inexportador":"","docfiscal":"78963206","docfiscalreprlegal":"","nomereprlegal":"","tpreprlegal":"","nacionalidade":"","estadocivil":"","docidentidade":""}]</metodo>
+<message>TfrmMain.ServerCommandGet</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:51:31</data>
+<tipo>Debug</tipo>
+<metodo>Cmd: GET /favicon.ico HTTP/1.1 / Met: GET / URI: /favicon.ico</metodo>
+<message>TfrmMain.ServerCommandGet</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:51:31</data>
+<tipo>Debug</tipo>
+<metodo>GET / URI: /favicon.ico / JSONStr: </metodo>
+<message>TfrmMain.ServerCommandGet</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:56:33</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:58:06</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:58:06</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:58:06</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:58:06</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:58:24</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:58:24</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_CAD_CLIENTE</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:58:25</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_CONDPGTOC</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:58:25</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:58:25</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:58:26</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_FCR_REC_FV</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 08:58:26</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 09:00:54</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_BANCO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 09:00:54</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_CONTA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 09:00:54</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_MOEDA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 09:00:54</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 09:10:21</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao efetuar consulta / pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+CAD_RECIBO
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>29/06/2022 09:10:21</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar recibos</metodo>
+<message>TfrmMain.AtualizaRecibo</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+CAD_RECIBO
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>29/06/2022 09:10:21</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 09:10:38</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 09:10:52</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 09:10:52</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 09:10:52</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 09:11:14</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 09:11:14</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_CAD_CLIENTE</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 09:11:16</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_CONDPGTOC</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 09:11:16</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 09:11:16</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 09:11:16</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_FCR_REC_FV</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 09:11:16</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 09:13:42</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_BANCO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 09:13:42</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_CONTA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 09:13:42</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_MOEDA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 09:14:07</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 09:16:26</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 09:22:31</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 09:28:36</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 09:29:14</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 09:37:35</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 09:37:35</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 09:37:35</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 09:37:36</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 09:38:39</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 09:38:39</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 09:38:39</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 09:38:44</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:02:35</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:02:35</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:02:35</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:02:40</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:03:01</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:03:01</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:03:01</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:03:01</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:03:16</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:03:17</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_CAD_CLIENTE</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:03:18</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_CONDPGTOC</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:03:18</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:03:18</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:03:19</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_FCR_REC_FV</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:03:19</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:05:27</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_BANCO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:05:27</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_CONTA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:05:27</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_MOEDA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:05:27</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:08:44</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:14:46</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:20:27</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:20:27</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:20:27</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:20:27</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:20:43</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:20:43</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_CAD_CLIENTE</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:20:45</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_CONDPGTOC</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:20:45</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:20:45</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:20:45</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_FCR_REC_FV</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:20:45</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:23:02</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_BANCO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:23:02</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_CONTA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:23:02</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_MOEDA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:23:02</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:23:02</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:29:04</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:35:06</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:38:02</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:38:02</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:38:02</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:38:02</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:38:17</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:38:17</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_CAD_CLIENTE</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:38:19</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_CONDPGTOC</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:38:19</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:38:19</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:38:19</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_FCR_REC_FV</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:38:19</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:40:32</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_BANCO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:40:32</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_CONTA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:40:32</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_MOEDA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:40:32</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:42:10</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:42:25</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:42:33</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:42:40</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:48:41</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:54:43</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:57:34</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:58:55</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:58:55</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:58:55</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:59:10</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:59:10</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_CAD_CLIENTE</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:59:12</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_CONDPGTOC</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:59:12</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:59:12</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:59:12</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_FCR_REC_FV</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 10:59:12</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:01:25</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_BANCO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:01:25</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_CONTA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:01:25</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_MOEDA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:01:25</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:01:25</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:04:38</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:04:38</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:04:38</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:04:43</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:10:45</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:16:46</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:19:38</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:19:38</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:19:38</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:19:38</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:19:54</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:19:54</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_CAD_CLIENTE</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:19:56</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_CONDPGTOC</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:19:56</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:19:56</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:19:56</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_FCR_REC_FV</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:19:56</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:22:12</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_BANCO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:22:12</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_CONTA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:22:12</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_MOEDA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:22:12</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:22:49</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:28:51</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:34:52</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:37:12</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:37:12</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:37:12</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:37:12</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:37:28</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:37:28</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_CAD_CLIENTE</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:37:30</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_CONDPGTOC</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:37:30</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:37:30</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:37:30</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_FCR_REC_FV</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:37:30</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:39:44</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_BANCO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:39:44</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_CONTA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:39:44</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_MOEDA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:39:44</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:40:57</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:46:59</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:53:02</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:54:44</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:54:44</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:54:44</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:54:44</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:55:24</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:55:24</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_CAD_CLIENTE</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:55:25</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_CONDPGTOC</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:55:25</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:55:25</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:55:26</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_FCR_REC_FV</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:55:26</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:57:35</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_BANCO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:57:35</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_CONTA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:57:35</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_MOEDA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:57:35</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 11:59:03</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:05:05</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:11:08</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:12:35</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:12:35</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:12:35</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:12:35</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:13:15</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:13:15</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_CAD_CLIENTE</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:13:17</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_CONDPGTOC</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:13:17</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:13:17</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:13:17</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_FCR_REC_FV</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:13:17</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:15:43</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_BANCO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:15:43</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_CONTA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:15:43</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_MOEDA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:15:43</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:17:11</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:23:14</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:29:18</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:30:43</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:30:43</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:30:43</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:30:43</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:31:23</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:31:23</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_CAD_CLIENTE</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:31:24</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_CONDPGTOC</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:31:24</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:31:24</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:31:25</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_FCR_REC_FV</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:31:25</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:33:49</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_BANCO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:33:49</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_CONTA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:33:49</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_MOEDA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:33:49</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:35:23</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:41:26</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:47:29</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:48:49</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:48:49</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:48:49</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:48:49</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:49:05</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:49:05</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_CAD_CLIENTE</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:49:07</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_CONDPGTOC</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:49:07</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:49:07</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:49:07</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_FCR_REC_FV</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:49:07</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:51:35</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_BANCO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:51:35</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_CONTA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:51:35</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_MOEDA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:51:35</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:53:29</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 12:59:32</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 13:05:36</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 13:06:35</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 13:06:35</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 13:06:35</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 13:06:35</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 13:07:14</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 13:07:14</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_CAD_CLIENTE</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 13:07:16</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_CONDPGTOC</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 13:07:16</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 13:07:16</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 13:07:16</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_FCR_REC_FV</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 13:07:16</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 13:09:47</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_BANCO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 13:09:47</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_CONTA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 13:09:47</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_MOEDA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 13:09:47</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 13:11:36</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>29/06/2022 13:17:39</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+

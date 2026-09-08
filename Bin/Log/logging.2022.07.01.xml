@@ -1,0 +1,774 @@
+<log>
+<data>01/07/2022 08:43:59</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 08:43:59</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 08:43:59</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 08:43:59</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 08:43:59</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 08:44:04</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 08:44:08</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 08:44:08</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 08:44:08</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 08:44:08</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 08:44:27</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 08:44:27</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_CAD_CLIENTE</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 08:44:28</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_CONDPGTOC</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 08:44:28</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 08:44:28</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 08:44:29</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_FCR_REC_FV</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 08:44:29</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 08:46:51</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_BANCO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 08:46:51</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_CONTA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 08:46:51</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_MOEDA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 08:46:51</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 08:50:09</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:17:05</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:17:05</data>
+<tipo>Debug</tipo>
+<metodo>amb: TEST / sub: CLI / data:  / user:  / pass: </metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:18:05</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:18:05</data>
+<tipo>Debug</tipo>
+<metodo>amb: TEST / sub: CLI / data:  / user:  / pass: </metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:19:24</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:22:45</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:22:45</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:22:45</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:22:51</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:33:25</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:33:26</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:33:26</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:39:18</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:39:18</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:39:18</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:42:02</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:42:02</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:42:02</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:42:12</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:50:23</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:50:23</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:50:23</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:50:28</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:50:37</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:50:37</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:50:37</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:50:37</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:50:56</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:50:56</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_CAD_CLIENTE</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:51:25</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:51:36</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:51:36</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:51:57</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:52:35</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:52:35</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:52:36</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:52:36</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:53:00</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:53:00</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_CAD_CLIENTE</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:53:02</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_CONDPGTOC</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:53:02</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:53:02</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:53:02</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_FCR_REC_FV</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:53:02</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:54:04</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:54:04</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:54:04</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:54:09</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:54:20</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:54:20</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:54:20</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:54:20</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:54:37</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:54:37</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:54:37</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:54:37</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:55:33</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:55:33</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:55:33</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:55:39</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:56:12</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:56:12</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:56:12</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>01/07/2022 23:56:17</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+

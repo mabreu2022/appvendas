@@ -1,0 +1,27 @@
+[18:10, 17/10/2020] Miguel Virtual: Na tela de configuração foi criado a opção para configurar a impressora e adicionado o campo do IMEI do celular que será utilizado para registar no servidor e controlar a quantidade de acesso conforme contratado
+
+[18:10, 17/10/2020] Miguel Virtual: Para controle dos seriais foi criado o arquivo acesso.dat na pasta do servidor criptografado
+
+
+[18:11, 17/10/2020] Miguel Virtual: Para definir a quantidade de acesso permitida ficou uma configuração no arquivo ini
+
+[18:11, 17/10/2020] Miguel Virtual: [LICENCA]
+QT_ACESSO=515444452332
+
+[18:11, 17/10/2020] Miguel Virtual: Também criptografada
+
+[18:12, 17/10/2020] Miguel Virtual: Por padrão fica liberado 2 acessos
+
+
+[18:12, 17/10/2020] Miguel Virtual: Quando implantado o servidor vai liberando automáticamente os acessos para os dispositivos móveis
+
+[18:13, 17/10/2020] Miguel Virtual: quando chegar no limite contratado barra o acesso não permitindo o sincronismo
+
+
+[18:13, 17/10/2020] Miguel Virtual: para resetar basta excluir o arquivo para regerar novamente as liberações
+
+[18:14, 17/10/2020] Miguel Virtual: para configurar o arquivo ini vou criar um app com senha para gerar a liberação
+
+[18:15, 17/10/2020] Miguel Virtual: acredito que esse aplicativo para gerar a liberação fique de posse do suporte apenas
+
+[18:15, 17/10/2020] Miguel Virtual: nunca deixar na produção com o cliente

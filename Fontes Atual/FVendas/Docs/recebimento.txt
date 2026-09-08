@@ -1,0 +1,42 @@
+Camargo, bom dia,
+
+Pelo que verifiquei:
+
+- Na venda:
+  - permitir informar o valor de desconto;
+  - permitir informar o valor de atacado;
+  - permitir informar o valor de varejo;
+  - permitir excluir o item da venda;
+  - totalizar a venda ao lancar/excluir o item;
+  
+- No recebimento: 
+  - gerar a sequencia do recibo com base em uma sequence / generator;
+  - incluir o campo de valor em dinheiro;
+	- valor / moeda;
+  - incluir o campo de valor em cheque;
+	- valor / moeda / banco / numero / data;
+  - incluir o campo de valor em deposito;
+	- valor / moeda / conta / numero / data;
+
+- Na impressão do recibo:
+  - imprimir o logotipo da empresa; - não suporta
+  - imprimir a sequencia do recibo;
+  - imprimir o valor em dinheiro;
+  - imprimir o valor em cheque;
+  
+Confirmar para mim te passar o tempo e o custo da implementação,
+
+Acredito que até no final do mês de setembro consiga fazer para você,
+
+[18:50, 25/09/2021] Claudinei Felicio Camargo: Na tela de recebimento de fatura que vai ser complicado
+[18:51, 25/09/2021] Claudinei Felicio Camargo: Pq lá tem que informar valor em dinheiro, uma grid para informar se é cheque ou depósito
+[18:52, 25/09/2021] Claudinei Felicio Camargo: Informar o NR do depósito banco moeda , data do depósito e valor
+[18:52, 25/09/2021] Claudinei Felicio Camargo: Da mesma forma o cheque, NR do cheque, banco, vencimento, moeda e valor
+
+Seria esses campos aqui ?
+- incluir o campo de valor em dinheiro;
+	- valor / moeda;
+- incluir o campo de valor em cheque;
+	- valor / moeda / banco / numero / data;
+- incluir o campo de valor em deposito;
+	- valor / moeda / conta / numero / data;

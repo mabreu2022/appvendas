@@ -1,0 +1,27 @@
+<log>
+<data>08/07/2022 15:21:04</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>08/07/2022 15:21:04</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>08/07/2022 15:21:04</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+

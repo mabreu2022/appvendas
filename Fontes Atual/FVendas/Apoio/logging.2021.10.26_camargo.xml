@@ -1,0 +1,825 @@
+<log>
+<data>26/10/2021 07:31:36</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.10.17</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 07:31:36</data>
+<tipo>Debug</tipo>
+<metodo>amb: TEST / sub: CLI / data: C:\FVENDAS\Bin\\Dados\CLI_DADOS.FDB / user: SYSDBA / pass: masterkey</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 07:32:47</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.10.17</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 07:32:47</data>
+<tipo>Debug</tipo>
+<metodo>amb: TEST / sub: CLI / data: C:\FVENDAS\Bin\\Dados\CLI_DADOS.FDB / user: SYSDBA / pass: masterkey</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 07:34:06</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.10.17</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 07:34:06</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 07:34:06</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\FVendas\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 07:34:12</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 07:34:13</data>
+<tipo>Debug</tipo>
+<metodo>Cmd: GET /GetVendedor?serial= HTTP/1.1 / Met: GET / URI: /GetVendedor</metodo>
+<message>TfrmMain.ServerCommandGet</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 07:34:13</data>
+<tipo>Erro</tipo>
+<metodo>Erro na validacao do serial / </metodo>
+<message>TfrmMain.ServerCommandGet</message>
+<gerador></gerador>
+<exception>Serial deve ser informado / </exception>
+</log>
+
+<log>
+<data>26/10/2021 07:34:25</data>
+<tipo>Erro</tipo>
+<metodo>Falha de execucao</metodo>
+<message>TClsApplication.OnException</message>
+<gerador></gerador>
+<exception>Not enough timers available / </exception>
+</log>
+
+<log>
+<data>26/10/2021 07:34:29</data>
+<tipo>Erro</tipo>
+<metodo>Falha de execucao</metodo>
+<message>TClsApplication.OnException</message>
+<gerador></gerador>
+<exception>Access violation at address 00614145 in module 'fvServidor.exe'. Read of address 00000001 / </exception>
+</log>
+
+<log>
+<data>26/10/2021 07:34:32</data>
+<tipo>Debug</tipo>
+<metodo>Cmd: GET /GetVendedor?serial= HTTP/1.1 / Met: GET / URI: /GetVendedor</metodo>
+<message>TfrmMain.ServerCommandGet</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 07:34:32</data>
+<tipo>Erro</tipo>
+<metodo>Erro na validacao do serial / </metodo>
+<message>TfrmMain.ServerCommandGet</message>
+<gerador></gerador>
+<exception>Serial deve ser informado / </exception>
+</log>
+
+<log>
+<data>26/10/2021 07:35:33</data>
+<tipo>Debug</tipo>
+<metodo>Cmd: GET /GetVendedor?serial= HTTP/1.1 / Met: GET / URI: /GetVendedor</metodo>
+<message>TfrmMain.ServerCommandGet</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 07:35:33</data>
+<tipo>Erro</tipo>
+<metodo>Erro na validacao do serial / </metodo>
+<message>TfrmMain.ServerCommandGet</message>
+<gerador></gerador>
+<exception>Serial deve ser informado / </exception>
+</log>
+
+<log>
+<data>26/10/2021 07:39:08</data>
+<tipo>Erro</tipo>
+<metodo>Falha de execucao</metodo>
+<message>TClsApplication.OnException</message>
+<gerador></gerador>
+<exception>Access violation at address 00614145 in module 'fvServidor.exe'. Read of address 00000001 / </exception>
+</log>
+
+<log>
+<data>26/10/2021 07:39:09</data>
+<tipo>Erro</tipo>
+<metodo>Falha de execucao</metodo>
+<message>TClsApplication.OnException</message>
+<gerador></gerador>
+<exception>Access violation at address 00614145 in module 'fvServidor.exe'. Read of address 00000001 / </exception>
+</log>
+
+<log>
+<data>26/10/2021 07:39:10</data>
+<tipo>Erro</tipo>
+<metodo>Falha de execucao</metodo>
+<message>TClsApplication.OnException</message>
+<gerador></gerador>
+<exception>Access violation at address 00614145 in module 'fvServidor.exe'. Read of address 00000001 / </exception>
+</log>
+
+<log>
+<data>26/10/2021 07:47:15</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.10.17</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 07:47:15</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 07:47:16</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\FVendas\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 07:47:19</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 07:47:20</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 07:47:20</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 07:47:23</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 07:47:41</data>
+<tipo>Debug</tipo>
+<metodo>Cmd: GET /GetVendedor?serial= HTTP/1.1 / Met: GET / URI: /GetVendedor</metodo>
+<message>TfrmMain.ServerCommandGet</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 07:47:41</data>
+<tipo>Erro</tipo>
+<metodo>Erro na validacao do serial / </metodo>
+<message>TfrmMain.ServerCommandGet</message>
+<gerador></gerador>
+<exception>Serial deve ser informado / </exception>
+</log>
+
+<log>
+<data>26/10/2021 07:47:51</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 07:47:51</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_CAD_CLIENTE</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 07:47:53</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_CONDPGTOC</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 07:47:53</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 07:47:53</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 07:47:53</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_FCR_REC_FV</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 07:47:53</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 07:47:58</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_BANCO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 07:47:58</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_CONTA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 07:47:58</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_MOEDA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 07:47:58</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 07:47:58</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao efetuar consulta / pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+CAD_RECIBO
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>26/10/2021 07:47:58</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar recibos</metodo>
+<message>TfrmMain.AtualizaRecibo</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+CAD_RECIBO
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>26/10/2021 07:53:26</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 07:56:29</data>
+<tipo>Erro</tipo>
+<metodo>Falha de execucao</metodo>
+<message>TClsApplication.OnException</message>
+<gerador></gerador>
+<exception>Not enough timers available / </exception>
+</log>
+
+<log>
+<data>26/10/2021 07:59:31</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:02:58</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:02:58</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:02:58</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:03:30</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:03:30</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_CAD_CLIENTE</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:03:32</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_CONDPGTOC</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:03:32</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:03:33</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:03:33</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_FCR_REC_FV</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:03:33</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:03:41</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_BANCO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:03:41</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_CONTA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:03:41</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_MOEDA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:03:41</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:03:41</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao efetuar consulta / pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+CAD_RECIBO
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>26/10/2021 08:03:41</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar recibos</metodo>
+<message>TfrmMain.AtualizaRecibo</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+CAD_RECIBO
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>26/10/2021 08:05:33</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:08:12</data>
+<tipo>Erro</tipo>
+<metodo>Falha de execucao</metodo>
+<message>TClsApplication.OnException</message>
+<gerador></gerador>
+<exception>Access violation at address 00614145 in module 'fvServidor.exe'. Read of address 00000001 / </exception>
+</log>
+
+<log>
+<data>26/10/2021 08:08:16</data>
+<tipo>Erro</tipo>
+<metodo>Falha de execucao</metodo>
+<message>TClsApplication.OnException</message>
+<gerador></gerador>
+<exception>Access violation at address 00614145 in module 'fvServidor.exe'. Read of address 00000001 / </exception>
+</log>
+
+<log>
+<data>26/10/2021 08:08:43</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.10.17</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:08:43</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:08:43</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\FVendas\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:08:48</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:08:49</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:08:50</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:08:50</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:09:13</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:09:13</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_CAD_CLIENTE</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:09:15</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_CONDPGTOC</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:09:15</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:09:15</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:09:15</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_FCR_REC_FV</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:09:15</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:09:18</data>
+<tipo>Debug</tipo>
+<metodo>Cmd: GET /GetVendedor?serial= HTTP/1.1 / Met: GET / URI: /GetVendedor</metodo>
+<message>TfrmMain.ServerCommandGet</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:09:18</data>
+<tipo>Erro</tipo>
+<metodo>Erro na validacao do serial / </metodo>
+<message>TfrmMain.ServerCommandGet</message>
+<gerador></gerador>
+<exception>Serial deve ser informado / </exception>
+</log>
+
+<log>
+<data>26/10/2021 08:09:18</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_BANCO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:09:18</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_CONTA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:09:18</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_MOEDA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:09:18</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:09:18</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao efetuar consulta / pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+CAD_RECIBO
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>26/10/2021 08:09:18</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar recibos</metodo>
+<message>TfrmMain.AtualizaRecibo</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+CAD_RECIBO
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>26/10/2021 08:14:19</data>
+<tipo>Erro</tipo>
+<metodo>Falha de execucao</metodo>
+<message>TClsApplication.OnException</message>
+<gerador></gerador>
+<exception>Not enough timers available / </exception>
+</log>
+
+<log>
+<data>26/10/2021 08:14:52</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>26/10/2021 08:20:43</data>
+<tipo>Erro</tipo>
+<metodo>Falha de execucao</metodo>
+<message>TClsApplication.OnException</message>
+<gerador></gerador>
+<exception>Access violation at address 00613FAF in module 'fvServidor.exe'. Read of address 00000011 / </exception>
+</log>
+
+<log>
+<data>26/10/2021 08:20:57</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+

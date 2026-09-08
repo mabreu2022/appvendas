@@ -1,0 +1,2260 @@
+<log>
+<data>14/10/2024 10:13:03</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.10.17</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 10:13:03</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: 170.232.219.164:C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 10:13:50</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 10:13:50</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: 170.232.219.164:C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 10:14:34</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao efetuar consulta / pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Unable to complete network request to host "170.232.219.164".
+Failed to establish a connection. / </exception>
+</log>
+
+<log>
+<data>14/10/2024 10:14:34</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar usuarios</metodo>
+<message>TfrmMain.AtualizaUsuarios</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Unable to complete network request to host "170.232.219.164".
+Failed to establish a connection. / </exception>
+</log>
+
+<log>
+<data>14/10/2024 10:14:34</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 10:14:34</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: 170.232.219.164:C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 10:15:19</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao efetuar consulta / pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Unable to complete network request to host "170.232.219.164".
+Failed to establish a connection. / </exception>
+</log>
+
+<log>
+<data>14/10/2024 10:15:19</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar vendedores</metodo>
+<message>TfrmMain.AtualizaVendedores</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Unable to complete network request to host "170.232.219.164".
+Failed to establish a connection. / </exception>
+</log>
+
+<log>
+<data>14/10/2024 10:16:55</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.10.17</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 10:16:55</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: 170.232.219.164:C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 10:17:42</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 10:17:42</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: 170.232.219.164:C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 10:18:26</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao efetuar consulta / pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Unable to complete network request to host "170.232.219.164".
+Failed to establish a connection. / </exception>
+</log>
+
+<log>
+<data>14/10/2024 10:18:26</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar usuarios</metodo>
+<message>TfrmMain.AtualizaUsuarios</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Unable to complete network request to host "170.232.219.164".
+Failed to establish a connection. / </exception>
+</log>
+
+<log>
+<data>14/10/2024 10:18:26</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 10:18:26</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: 170.232.219.164:C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 10:19:10</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao efetuar consulta / pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Unable to complete network request to host "170.232.219.164".
+Failed to establish a connection. / </exception>
+</log>
+
+<log>
+<data>14/10/2024 10:19:10</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar vendedores</metodo>
+<message>TfrmMain.AtualizaVendedores</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Unable to complete network request to host "170.232.219.164".
+Failed to establish a connection. / </exception>
+</log>
+
+<log>
+<data>14/10/2024 10:19:15</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 10:19:15</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: 170.232.219.164:C:\Fvendas\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 10:21:26</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.10.17</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 10:21:26</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: 170.232.219.164:C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 10:22:14</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 10:22:14</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: 170.232.219.164:C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 10:22:58</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao efetuar consulta / pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Unable to complete network request to host "170.232.219.164".
+Failed to establish a connection. / </exception>
+</log>
+
+<log>
+<data>14/10/2024 10:22:58</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar usuarios</metodo>
+<message>TfrmMain.AtualizaUsuarios</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Unable to complete network request to host "170.232.219.164".
+Failed to establish a connection. / </exception>
+</log>
+
+<log>
+<data>14/10/2024 10:22:58</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 10:22:58</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: 170.232.219.164:C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 10:23:42</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao efetuar consulta / pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Unable to complete network request to host "170.232.219.164".
+Failed to establish a connection. / </exception>
+</log>
+
+<log>
+<data>14/10/2024 10:23:42</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar vendedores</metodo>
+<message>TfrmMain.AtualizaVendedores</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Unable to complete network request to host "170.232.219.164".
+Failed to establish a connection. / </exception>
+</log>
+
+<log>
+<data>14/10/2024 10:24:09</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 10:24:09</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: 170.232.219.164:C:\Fvendas\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 10:24:57</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao executar comando / pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Unable to complete network request to host "170.232.219.164".
+Failed to establish a connection. / </exception>
+</log>
+
+<log>
+<data>14/10/2024 10:24:57</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar produtos</metodo>
+<message>TfrmMain.AtualizaProdutos</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Unable to complete network request to host "170.232.219.164".
+Failed to establish a connection. / </exception>
+</log>
+
+<log>
+<data>14/10/2024 10:24:57</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 10:24:57</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: 170.232.219.164:C:\Fvendas\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 10:47:11</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.10.17</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 10:47:11</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: 170.232.219.164:C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 10:50:12</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.10.17</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 10:51:23</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: 170.232.219.164:C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 10:57:44</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.10.17</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 10:57:46</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: 170.232.219.164:C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 11:00:36</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.10.17</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 11:01:05</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: 170.232.219.164:C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 11:01:35</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.10.17</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 11:02:35</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: 170.232.219.164:C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 11:04:32</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.10.17</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 11:04:36</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: 170.232.219.164:C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 11:04:57</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.10.17</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 11:05:00</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: 170.232.219.164:C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 11:08:11</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.10.17</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 11:08:14</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: 170.232.219.164:C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 11:09:08</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.10.17</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 11:09:16</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: 170.232.219.164:C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:01:15</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.10.17</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:01:15</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: 170.232.219.164:C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:02:29</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.10.17</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:02:29</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: 170.232.219.164:C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:04:03</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.10.17</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:04:03</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: 170.232.219.164:C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:08:48</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.10.17</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:08:48</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: 170.232.219.164:C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:47:08</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.10.17</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:47:08</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Fvendas\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:47:15</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:47:18</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:47:18</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Fvendas\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:47:22</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:47:22</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:47:30</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:47:32</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar produtos</metodo>
+<message>TfrmMain.AtualizaProdutos</message>
+<gerador></gerador>
+<exception>Field 'CODEMP' must have a value / </exception>
+</log>
+
+<log>
+<data>14/10/2024 12:47:32</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:47:32</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_CAD_CLIENTE</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:47:32</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:47:33</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_CONDPGTOC</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:47:33</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:47:33</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:47:33</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_FCR_REC_FV</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:47:33</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:47:33</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_BANCO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:47:33</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_CONTA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:47:33</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_MOEDA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:47:33</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:47:33</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao efetuar consulta / pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+CAD_RECIBO
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>14/10/2024 12:47:33</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar recibos</metodo>
+<message>TfrmMain.AtualizaRecibo</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+CAD_RECIBO
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>14/10/2024 12:51:18</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.10.17</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:51:18</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Fvendas\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:51:18</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:51:18</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:51:18</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Fvendas\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:51:22</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:51:22</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:51:26</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:51:54</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar produtos</metodo>
+<message>TfrmMain.AtualizaProdutos</message>
+<gerador></gerador>
+<exception>Field 'CODEMP' must have a value / </exception>
+</log>
+
+<log>
+<data>14/10/2024 12:51:54</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:51:54</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_CAD_CLIENTE</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:51:54</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:51:55</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_CONDPGTOC</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:51:55</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:51:55</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:51:55</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_FCR_REC_FV</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:51:55</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:51:55</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_BANCO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:51:55</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_CONTA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:51:55</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_MOEDA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:51:55</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:51:55</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao efetuar consulta / pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+CAD_RECIBO
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>14/10/2024 12:51:55</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar recibos</metodo>
+<message>TfrmMain.AtualizaRecibo</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+CAD_RECIBO
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>14/10/2024 12:58:58</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.10.17</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:58:58</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Fvendas\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:58:58</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:58:58</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:58:58</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Fvendas\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:59:03</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:59:46</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.10.17</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:59:46</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Fvendas\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:59:46</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:59:46</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:59:46</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Fvendas\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:59:51</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:59:51</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:59:51</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:59:52</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar produtos</metodo>
+<message>TfrmMain.AtualizaProdutos</message>
+<gerador></gerador>
+<exception>Field 'CODEMP' must have a value / </exception>
+</log>
+
+<log>
+<data>14/10/2024 12:59:52</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:59:52</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_CAD_CLIENTE</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:59:52</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:59:53</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_CONDPGTOC</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:59:53</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:59:53</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:59:53</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_FCR_REC_FV</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:59:53</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:59:53</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_BANCO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:59:53</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_CONTA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:59:53</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_MOEDA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:59:53</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 12:59:53</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao efetuar consulta / pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+CAD_RECIBO
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>14/10/2024 12:59:53</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar recibos</metodo>
+<message>TfrmMain.AtualizaRecibo</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+CAD_RECIBO
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>14/10/2024 13:01:13</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.10.17</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:01:13</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Fvendas\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:01:13</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:01:13</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:01:13</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Fvendas\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:01:17</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:01:17</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:01:17</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:12:45</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.10.17</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:12:45</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Fvendas\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:12:45</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:12:45</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:12:45</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Fvendas\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:12:51</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:12:52</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:12:52</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:12:52</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:13:08</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:13:08</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_CAD_CLIENTE</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:13:09</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_CONDPGTOC</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:13:09</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:13:09</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:13:09</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_FCR_REC_FV</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:13:09</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:13:11</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_BANCO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:13:11</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar bancos</metodo>
+<message>TfrmMain.AtualizaBanco</message>
+<gerador></gerador>
+<exception>'A' is not a valid integer value / </exception>
+</log>
+
+<log>
+<data>14/10/2024 13:13:11</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_CONTA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:13:11</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_MOEDA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:13:11</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:13:11</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao efetuar consulta / pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+CAD_RECIBO
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>14/10/2024 13:13:11</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar recibos</metodo>
+<message>TfrmMain.AtualizaRecibo</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+CAD_RECIBO
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>14/10/2024 13:46:07</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.10.17</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:46:07</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Fvendas\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:46:07</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:46:07</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:46:07</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Fvendas\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:46:13</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:46:13</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from ADM_EMPRESA</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:46:18</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:46:20</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar Empresas</metodo>
+<message>TfrmMain.AtualizaEmpresas</message>
+<gerador></gerador>
+<exception>qryAdmEmpresasFB: Dataset not in edit or insert mode / </exception>
+</log>
+
+<log>
+<data>14/10/2024 13:46:20</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:46:20</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:46:20</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:46:25</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:46:25</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_CAD_CLIENTE</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:47:00</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.10.17</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:47:00</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Fvendas\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:47:00</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:47:00</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:47:00</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Fvendas\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:47:06</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:47:08</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from ADM_EMPRESA</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:47:11</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:48:19</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.10.17</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:48:19</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Fvendas\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:48:19</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:48:19</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:48:19</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Fvendas\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:48:23</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from ADM_EMPRESA</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:48:25</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:48:26</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar Empresas</metodo>
+<message>TfrmMain.AtualizaEmpresas</message>
+<gerador></gerador>
+<exception>qryAdmEmpresasFB: Dataset not in edit or insert mode / </exception>
+</log>
+
+<log>
+<data>14/10/2024 13:48:26</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:48:26</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:48:26</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:48:27</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:49:28</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.10.17</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:49:28</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Fvendas\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:49:28</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:49:28</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:49:28</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Fvendas\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:49:31</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from ADM_EMPRESA</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:49:33</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:50:33</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.10.17</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:50:33</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Fvendas\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:50:33</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:50:33</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:50:33</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Fvendas\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:50:36</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from ADM_EMPRESA</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:50:38</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:52:48</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.10.17</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:52:48</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Fvendas\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:52:49</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:52:49</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:52:49</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Fvendas\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:52:51</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from ADM_EMPRESA</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:52:53</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:55:46</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.10.17</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:55:46</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Fvendas\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:55:46</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:55:46</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:55:46</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Fvendas\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:55:52</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:55:52</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from ADM_EMPRESA</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:55:52</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:59:53</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.10.17</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:59:53</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Fvendas\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:59:53</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:59:53</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:59:53</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Fvendas\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:59:57</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from ADM_EMPRESA</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 13:59:57</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 14:00:10</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 14:00:10</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 14:00:10</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 14:00:11</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 14:00:15</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>14/10/2024 14:00:15</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_CAD_CLIENTE</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+

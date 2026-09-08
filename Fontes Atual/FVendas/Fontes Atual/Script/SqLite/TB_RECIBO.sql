@@ -1,0 +1,5 @@
+create table TB_RECIBO (
+  COD_RECIBO Varchar(40) NOT NULL,
+  NRO_RECIBO Integer     NOT NULL,
+  PRIMARY KEY (COD_RECIBO)
+);

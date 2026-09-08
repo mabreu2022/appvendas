@@ -1,0 +1,140 @@
+FB                 CLI
+
+  TB_CLIENTE      <> V_CAD_CLIENTE
+  TB_COND_PAGTO   <> CAD_CONDPGTOC
+  TB_ITENS_PEDIDO <> MOV_RESI
+  TB_LOG_SINC     <>     
+  TB_PEDIDO       <> MOV_RESC
+  TB_PRODUTO      <> V_PRD_PRDVL
+  TB_RECEBER      <> FCR_FAT
+  TB_USUARIO      <> ADM_USUARIO
+  TB_VENDEDOR     <> CAD_VEND
+
+TB_CLIENTE      <> V_CAD_CLIENTE
+
+  CODIGO           = CODCLIENTE
+  NOME             = NOME
+  CNPJ_CPF         = DOCFISCAL
+  LOGRADOURO       = ENDERLOGRAD
+  NUMERO           = ENDERNUMLOGRAD
+  BAIRRO           = ENDERBAIRRO
+  CIDADE_DESCRICAO = NOMECIDADE
+  TELEFONE         = NUMTELEFONE1
+  CONTATO          = PESSOACONTATO
+
+TB_COND_PAGTO   <> CAD_CONDPGTOC
+
+  CODIGO           = CODCOND
+  DESCRICAO        = DESCRICAO
+
+TB_ITENS_PEDIDO <> MOV_RESI
+
+  CODEMP           = 1
+  DATARES          = DATA_PEDIDO
+  NUMRES           = vCodProxPed
+  NUMITEM          = SEQ
+  CODPROD          = COD_PRODUTO
+  CODVEND          = CODVEND
+  USUARIO          = CODVEND
+  DATAATU          = date
+  TIPOOPER         = 'S'
+  HORAATU          = time
+  QTMOV            = QTD
+  VLUNITMOV        = VALOR_UNITARIO
+  VLTOTMOV         = VALOR_TOTAL
+  CODSITUACAO      = 1
+
+TB_LOG_SINC     <>     
+
+TB_PEDIDO       <> MOV_RESC
+
+  CODEMP           = 1
+  NUMRES           = vCodProxPed
+  DATARES          = DATA_PEDIDO
+  CODSITUACAO      = 1
+  CODOPER          = 13
+  NUMMOVPED        = CODIGO
+  DATAMOVPED       = DATA_PEDIDO
+  CODVEND          = VENDEDOR
+  USUARIO          = USUARIO
+  DATAATU          = date
+  HORAATU          = time
+  CODPESSOA        = CLIENTE
+  NOMEPESSOA       = vNomePessoa
+  CODCOND          = COD_PAGTO
+  CODMOEDA         = vGlbCodMoeda
+  VLTOTMOV         = TOTAL_PEDIDO
+
+TB_PRODUTO      <> V_PRD_PRDVL
+
+  CODIGO           = CODPROD
+  DESCRICAO        = DESCCOMPLETA
+  DESCRICAO_RED    = DESCRICAO
+  BARRAS           = CODBAR
+  UNIDADE          = UNIDMEDIDA
+  PRECO_VENDA      = VLVENDA
+  PRECO_MIN        = VLVENDAMIN
+  PRECO_ATACADO    = VLVENDAATACADO
+  PRECO_COMPRA     = VLCTOULTCOMP
+
+TB_RECEBER      <> FCR_FAT
+
+  COD_EMP          = CODEMP
+  COD_CLIENTE      = CODCLIENTE
+  NUM_FAT          = NUMFAT
+  NUM_PARC         = NUMPARC
+  SITUACAO         = SITUACAO
+  DATA_EMISSAO     = DATAEMISSAO
+  DATA_VENCTO      = DATAVENCTO
+  DATA_VENCTOORI   = DATAVENCTOORI
+  DATA_REC         = DATAREC
+  PROG_INCLUSAO    = PROGINCLUSAO
+  COD_PORT         = CODPORT
+  COD_MOEDA        = CODMOEDA
+  VLR_FATURA       = VLFATURA
+  VLR_FATORI       = VLFATORI
+  VLR_RECEBIDO     = VLRECEBIDO
+  VLR_DEDUCAO      = VLDEDUCAO
+  VLR_ACRESCIMO    = VLACRESCIMO
+  VLR_LIQUIDO      = VLLIQUIDO
+  TIP_DOC          = TPDOC
+  NUM_DOC          = NUMDOC
+  NUM_DOCAUX       = NUMDOCAUX
+  PERC_JUROMORA    = PERCJUROMORA
+  PERC_MULTA       = PERCMULTA
+  OBS              = OBS
+  TIP_INC          = TPINC
+  USU_INC          = USUINC
+  USU_REC          = USUREC
+  USU_CAN          = USUCAN
+  DATA_INC         = DATAINC
+  DATA_CAN         = DATACAN
+  DATA_IMP         = DATAIMP
+  USUARIO          = USUARIO
+  DATA_ATU         = DATAATU
+  HORA_ATU         = HORAATU
+  SELECAO          = SELECAO
+  COD_VEND         = CODVEND
+  NUM_NOTA         = NUMNOTA
+  NUM_MOV          = NUMMOV
+  DATA_MOV         = DATAMOV
+  TIP_PARCELA      = TPPARCELA
+  VLR_TOTRECEBIDO  = VLTOTRECEBIDO
+  VLR_ENTRADA      = VLENTRADA
+  NUM_PARCORI      = NUMPARCORI
+  DAT_CONTRATO_INI = DTINICONTRATO
+  DAT_CONTRATO_FIM = DTFIMCONTRATO
+  COD_IMOVEL       = CODIMOVEL
+
+TB_USUARIO      <> ADM_USUARIO
+
+  CODIGO           = CODUSU
+  NOME             = NOME
+  LOGIN            = LOGIN
+  SENHA            = SENHA_MOB
+
+TB_VENDEDOR     <> CAD_VEND
+
+  CODIGO           = CODVEND
+  NOME             = NOMEVEND
+  USUARIO          = NOMEVEND

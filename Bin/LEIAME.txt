@@ -1,0 +1,2 @@
+1 - NO conf.ini agora você configura user e password do banco de dados.
+2 - A dll contida nessa pasta tem que etar na mesma pasta do executavle fvServidor.exe

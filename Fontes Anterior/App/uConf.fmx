@@ -1,0 +1,295 @@
+﻿object frmConf: TfrmConf
+  Left = 0
+  Top = 0
+  ClientHeight = 613
+  ClientWidth = 363
+  Fill.Color = xFF1F4687
+  Fill.Kind = Solid
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop, iPhone, iPad]
+  OnClose = FormClose
+  OnKeyUp = FormKeyUp
+  OnShow = FormShow
+  DesignerMasterStyle = 3
+  object Layout3: TLayout
+    Align = Top
+    Margins.Top = 15.000000000000000000
+    Position.Y = 64.000000000000000000
+    Size.Width = 363.000000000000000000
+    Size.Height = 185.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    object Rectangle1: TRectangle
+      Align = Client
+      Margins.Left = 10.000000000000000000
+      Margins.Right = 10.000000000000000000
+      Size.Width = 343.000000000000000000
+      Size.Height = 185.000000000000000000
+      Size.PlatformDefault = False
+      Stroke.Kind = None
+      XRadius = 15.000000000000000000
+      YRadius = 15.000000000000000000
+      object Layout4: TLayout
+        Align = Top
+        Size.Width = 343.000000000000000000
+        Size.Height = 50.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 0
+        object Rectangle3: TRectangle
+          Align = Client
+          Fill.Color = claWhite
+          Margins.Left = 15.000000000000000000
+          Margins.Top = 5.000000000000000000
+          Margins.Right = 15.000000000000000000
+          Margins.Bottom = 5.000000000000000000
+          Size.Width = 313.000000000000000000
+          Size.Height = 40.000000000000000000
+          Size.PlatformDefault = False
+          Stroke.Kind = None
+          XRadius = 10.000000000000000000
+          YRadius = 10.000000000000000000
+          object Edit1: TEdit
+            Touch.InteractiveGestures = [LongTap, DoubleTap]
+            Align = VertCenter
+            StyleLookup = 'Edit1Style1'
+            TabOrder = 0
+            Position.X = 10.000000000000000000
+            Position.Y = 4.000000000000000000
+            Margins.Left = 10.000000000000000000
+            Margins.Right = 10.000000000000000000
+            Size.Width = 293.000000000000000000
+            Size.Height = 32.000000000000000000
+            Size.PlatformDefault = False
+            TextPrompt = 'SERVIDOR'
+          end
+        end
+        object ShadowEffect2: TShadowEffect
+          Distance = 3.000000000000000000
+          Direction = 45.000000000000000000
+          Softness = 0.300000011920929000
+          Opacity = 0.600000023841857900
+          ShadowColor = claBlack
+        end
+      end
+      object Layout5: TLayout
+        Align = Bottom
+        Position.Y = 128.000000000000000000
+        Size.Width = 343.000000000000000000
+        Size.Height = 57.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 1
+        object Rectangle5: TRectangle
+          Align = Client
+          Fill.Color = claWhite
+          Margins.Left = 50.000000000000000000
+          Margins.Top = 5.000000000000000000
+          Margins.Right = 50.000000000000000000
+          Margins.Bottom = 5.000000000000000000
+          Size.Width = 243.000000000000000000
+          Size.Height = 47.000000000000000000
+          Size.PlatformDefault = False
+          Stroke.Kind = None
+          XRadius = 10.000000000000000000
+          YRadius = 10.000000000000000000
+          object Image1: TImage
+            MultiResBitmap.Height = 80
+            MultiResBitmap.Width = 80
+            MultiResBitmap = <
+              item
+                Width = 80
+                Height = 80
+                PNG = {
+                  89504E470D0A1A0A0000000D49484452000000500000005008060000008E11F2
+                  AD000000017352474200AECE1CE90000000467414D410000B18F0BFC61050000
+                  035E49444154785EEDD94B4854511CC7F1FFB933232965B890529202CB1E6442
+                  2D6A13610B4BA14D940B0BA25D8221AD8236AD4A881611D9268222DAD8AA4559
+                  980841F65804EDD41E9BD2A05D4338A833F7767F33F7CAE8DC79DFD739F3FF6E
+                  EE9C7367317C38FFCB30431CC7711CC7711CC7715C68320C71766C2C62ADF2A6
+                  59572E3B13EFC4C8F468FC7BDBE36288C2BA7276161E69DA60664D4F1BDB7F5E
+                  78D6DF9F4AAFD7C52730BB2CBCD8D2A2B1A1CEE41174AED0496440BB757883A7
+                  0F8ACB7D7BC846FCFB63DB23274406440E78FBDA3653FBD64D34D49B411424CE
+                  3B2132601E3CBB9D2D16E24AC27042AC6DC022787669C433874454CB9C44F399
+                  F8D0BA55C38025E2D97DFD1DA7A4AED3BF04A5481393D6768D7E8D29136FFCF3
+                  3C3DFFF42B8DB7B1415C7C7DF5C813EB560D02BA88876A0BD0653C543B801EE0
+                  A1DA00F4080FA90FE8211E521BD0633CA42EA00F78484D409FF0907A803EE221
+                  B5007DC643EA00068087D4000C080FC90F18201E921B30603C242F6008F0909C
+                  8021C143F20186080F15FD49BF7764BAB3F7E6C70E6B196C21C343050181B724
+                  C4A4AEEB53812386100FE51D611B2F46D49CDE48D282A669DDE3D70ECFA5D77E
+                  16523CE478024FDE7A7FC0C6EBDCDE441DAD8D44516A0DE42486180FE500026F
+                  59A73736DEA59E5D34D4B73B18C490E3A13523EC84178964DEB29CD4E9DECB59
+                  9A5B88FB33CE12E0A155C09E910F5D49614C38E1D9F98628091E5A1D614318B7
+                  8107B481A33B72F0505D54F37E9C25C243AB8091D4CA80F9E9BFA45206DD7D31
+                  43F1C515EBCEDA3C45940C0FAD7D06DE78DB6C44A213E676574B533D5D39B597
+                  1A1BCC73E910C679D41CE759B7C659423C9433A781204A8A87721F7466BE224A
+                  8C871C01912F8892E3A1BC80C8534405F0504140E409A22278A8282072155121
+                  3C541220720551313C5432202A17F1FEF82CCDCC671029963A4E2931AC121E2A
+                  0B10558A68242821EAA95E253C543620AA1451353C5411202A17F1C1C437EADE
+                  BF8554C2431503A272108B25231EAA0A10B981282B1EAA1A10558328331E7205
+                  105582283B1E720D109583A8021E7215109582A80A1E721D10154254090F7902
+                  889C10DFCDFC510A0F790688B2117102F147954A78C85340948DA81A1EF21C10
+                  0131A9C55E45347147253C5F3B767D2A6ABDE4388EE3388EE3388EE3AA88E83F
+                  4E04FF591CF15CA60000000049454E44AE426082}
+                FileName = 'C:\Fontes\FVendas\Imagens\icones\icons8-selecionado-80.png'
+              end>
+            Align = Left
+            Margins.Left = 10.000000000000000000
+            Position.X = 10.000000000000000000
+            Size.Width = 57.000000000000000000
+            Size.Height = 47.000000000000000000
+            Size.PlatformDefault = False
+          end
+          object Label1: TLabel
+            Align = Contents
+            HitTest = True
+            Margins.Left = 3.000000000000000000
+            Size.Width = 240.000000000000000000
+            Size.Height = 47.000000000000000000
+            Size.PlatformDefault = False
+            StyleLookup = 'toollabel'
+            TextSettings.HorzAlign = Center
+            Text = 'GRAVAR'
+            TabOrder = 1
+            OnClick = Label1Click
+          end
+          object ShadowEffect1: TShadowEffect
+            Distance = 3.000000000000000000
+            Direction = 45.000000000000000000
+            Softness = 0.300000011920929000
+            Opacity = 0.600000023841857900
+            ShadowColor = claBlack
+          end
+        end
+      end
+      object Layout6: TLayout
+        Align = Top
+        Position.Y = 50.000000000000000000
+        Size.Width = 343.000000000000000000
+        Size.Height = 50.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 2
+        object Rectangle4: TRectangle
+          Align = Client
+          Fill.Color = claWhite
+          Margins.Left = 15.000000000000000000
+          Margins.Top = 5.000000000000000000
+          Margins.Right = 15.000000000000000000
+          Margins.Bottom = 5.000000000000000000
+          Size.Width = 313.000000000000000000
+          Size.Height = 40.000000000000000000
+          Size.PlatformDefault = False
+          Stroke.Kind = None
+          XRadius = 10.000000000000000000
+          YRadius = 10.000000000000000000
+          object Edit2: TEdit
+            Touch.InteractiveGestures = [LongTap, DoubleTap]
+            Align = VertCenter
+            StyleLookup = 'Edit1Style1'
+            TabOrder = 0
+            KeyboardType = NumberPad
+            Position.X = 10.000000000000000000
+            Position.Y = 4.000000000000000000
+            Margins.Left = 10.000000000000000000
+            Margins.Right = 10.000000000000000000
+            Size.Width = 293.000000000000000000
+            Size.Height = 32.000000000000000000
+            Size.PlatformDefault = False
+            TextPrompt = 'PORTA'
+          end
+        end
+        object ShadowEffect3: TShadowEffect
+          Distance = 3.000000000000000000
+          Direction = 45.000000000000000000
+          Softness = 0.300000011920929000
+          Opacity = 0.600000023841857900
+          ShadowColor = claBlack
+        end
+      end
+      object ShadowEffect7: TShadowEffect
+        Distance = 3.000000000000000000
+        Direction = 45.000000000000000000
+        Softness = 0.300000011920929000
+        Opacity = 0.600000023841857900
+        ShadowColor = claBlack
+      end
+    end
+  end
+  object Layout1: TLayout
+    Align = Top
+    Size.Width = 363.000000000000000000
+    Size.Height = 49.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object Rectangle2: TRectangle
+      Align = Client
+      Fill.Kind = None
+      Size.Width = 363.000000000000000000
+      Size.Height = 49.000000000000000000
+      Size.PlatformDefault = False
+      Stroke.Kind = None
+      object Label2: TLabel
+        Align = Contents
+        AutoSize = True
+        StyledSettings = [Family, Size, Style]
+        Margins.Bottom = 5.000000000000000000
+        Size.Width = 363.000000000000000000
+        Size.Height = 44.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.FontColor = claWhite
+        TextSettings.HorzAlign = Center
+        Text = 'Ajustes'
+        TabOrder = 0
+      end
+      object Image3: TImage
+        MultiResBitmap.Height = 80
+        MultiResBitmap.Width = 80
+        MultiResBitmap = <
+          item
+            Width = 80
+            Height = 80
+            PNG = {
+              89504E470D0A1A0A0000000D49484452000000500000005008060000008E11F2
+              AD000000017352474200AECE1CE90000000467414D410000B18F0BFC61050000
+              02CB49444154785EEDDBCB4ED4501CC7F17F499C2750F79088FA024AEB4270D1
+              79092FE8CA9D0A281D40098AB4281797AEBCBFC47421BAB0155F40C504F6EA13
+              0C89C7F33FED4C40E6D2E9B42ECEF97D1372869E597DF23FE4CC241042082184
+              104208218410420821A44F553FBE95BED4AEA1742D2D37886ED37E6333FD55BB
+              4A05643CABB1BF41958A953ED2AED200151E599B3AE371A5005683788AF1B496
+              4B2B1C90F1E4B2CE78972F0EAB673A5728A0EBC7D37269E15D387B523DD7B9C2
+              00DDE0F38C65D19AC21B37038F2B0450E191782A0113BC3366E07103035683E8
+              5E0B8F8FAD4178DC40808C4764AD32DE95F111E3F0B8DC80EE4A3C9BE0590ACF
+              397D22DD31AB5C806E107BD6100509DEB0B1785CDF800A8FC867BCAB1366E371
+              7D0156FD68EE209E3D6A361E971990F1C8B21E33DE35E0B59203D53B796CE7E5
+              1B97196F726284CE8F1E4F777A77F3F976FA4A8FEA9E7DC8ACE70456FD78212F
+              9E09759D40C693EF78A4F02E49BC53E6E2354F52E60974FDE801F07AD71690F1
+              24DC12E35D075ED78E00BA41B4D8C4BB21F1CE01AF6B99AF31A87D470043CF59
+              12422CCA1F7AF17E97BEFCF89DEEA076B59DC0B0E63C6C22BE9488DB40EC58C7
+              23CC8824E83E23BE0262C7BADE03B94377C11C1769E33F89D46BF6B2205A5093
+              B8252771079378B09E13D8ECDF2F13C6327E99D0E906AF4B99AF31F59AB34242
+              CCF324BEDEDAA378E757BA63769901394694C7B9C6886F80A8EA0B900B3D3B38
+              88187D371BB16F404E21FE218F11DF7E301B31172017CED9AB44623641DC3516
+              31372057F79C27092229C44FDF7EA63BE6341020C78882ACBB8CF8EEE39E7188
+              030372A137B6D642947F134D422C049053888266A46182F8D50CC4C200B9B066
+              AFCB655A21F2713600B150404E7E64DB904B0B51F70A07E4185190B8C388BA57
+              0A20177ACE3346A446436BC7D2003985583936A53B62E9E9FCAF5E0821841042
+              0821841042082184D0FF88E82F060E1DF0446BF96C0000000049454E44AE4260
+              82}
+            FileName = 'C:\Fontes\FVendas\Imagens\icones\icons8-esquerda-80.png'
+          end>
+        Align = Left
+        Margins.Left = 5.000000000000000000
+        Margins.Top = 5.000000000000000000
+        Margins.Right = 5.000000000000000000
+        Margins.Bottom = 5.000000000000000000
+        Position.X = 5.000000000000000000
+        Position.Y = 5.000000000000000000
+        Size.Width = 50.000000000000000000
+        Size.Height = 39.000000000000000000
+        Size.PlatformDefault = False
+        OnClick = Image3Click
+        OnMouseDown = Image3MouseDown
+        OnMouseLeave = Image3MouseLeave
+      end
+    end
+  end
+end

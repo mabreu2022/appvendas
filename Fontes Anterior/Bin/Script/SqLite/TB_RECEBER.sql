@@ -1,0 +1,23 @@
+DROP TABLE TB_RECEBER;
+
+CREATE TABLE TB_RECEBER (
+    COD_EMP          INTEGER         NOT NULL,
+    COD_CLIENTE      INTEGER         NOT NULL,
+    NUM_FAT          INTEGER         NOT NULL,
+    NUM_PARC         INTEGER         NOT NULL,
+    NOM_CLIENTE      VARCHAR (60)    NOT NULL,
+    SITUACAO         VARCHAR (1)     NOT NULL,
+    DATA_EMISSAO     TIMESTAMP       NOT NULL,
+    DATA_VENCTO      TIMESTAMP       NOT NULL,
+    COD_PORT         INTEGER         NOT NULL,
+    COD_MOEDA        INTEGER,
+    VLR_FATURA       DECIMAL (16, 2) NOT NULL,
+    TIP_DOC          DECIMAL (2, 0)  NOT NULL,
+    NUM_DOC          INTEGER,
+    USUARIO          INTEGER         NOT NULL,
+    COD_VEND         INTEGER,
+    NUM_NOTA         INTEGER,
+    NUM_MOV          INTEGER,
+    DATA_MOV         TIMESTAMP,
+	PRIMARY KEY (COD_EMP, COD_CLIENTE, NUM_FAT, NUM_PARC)
+);

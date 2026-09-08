@@ -1,0 +1,2532 @@
+<log>
+<data>28/06/2022 09:21:48</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 09:21:48</data>
+<tipo>Debug</tipo>
+<metodo>amb: TEST / sub: CLI / data: C:\Projeto\Fontes Atual\Bin\\Dados\CLI_DADOS.FDB / user: SYSDBA / pass: masterkey</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 09:22:58</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 09:22:58</data>
+<tipo>Debug</tipo>
+<metodo>amb: TEST / sub: CLI / data: C:\Projeto\Fontes Atual\Bin\\Dados\CLI_DADOS.FDB / user: SYSDBA / pass: masterkey</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 09:24:04</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 09:28:54</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 09:29:23</data>
+<tipo>Debug</tipo>
+<metodo>amb: TEST / sub: CLI / data: C:\Projeto\Fontes Atual\Bin\\Dados\CLI_DADOS.FDB / user: SYSDBA / pass: masterkey</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 09:31:23</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 09:33:03</data>
+<tipo>Debug</tipo>
+<metodo>amb: TEST / sub: CLI / data: C:\Projeto\Fontes Atual\Bin\Dados\CLI_DADOS.FDB / user: SYSDBA / pass: masterkey</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 09:34:22</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 09:35:08</data>
+<tipo>Debug</tipo>
+<metodo>amb: TEST / sub: CLI / data: C:\Projeto\Fontes Atual\Bin\Dados\CLI_DADOS.FDB / user: SYSDBA / pass: masterkey</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 09:38:07</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 09:38:37</data>
+<tipo>Debug</tipo>
+<metodo>amb: TEST / sub: CLI / data: C:\Projeto\Fontes Atual\Bin\Dados\CLI_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 09:39:12</data>
+<tipo>Debug</tipo>
+<metodo>amb: TEST / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: masterkey</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 09:41:07</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 09:41:28</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 09:42:04</data>
+<tipo>Debug</tipo>
+<metodo>amb: TEST / sub: CLI / data: C:\Projeto\Fontes Atual\Bin\Dados\CLI_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 09:42:44</data>
+<tipo>Debug</tipo>
+<metodo>amb: TEST / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: masterkey</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 09:43:37</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 09:44:33</data>
+<tipo>Debug</tipo>
+<metodo>amb: TEST / sub: CLI / data: C:\Projeto\Fontes Atual\Bin\Dados\CLI_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 09:46:05</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 09:46:11</data>
+<tipo>Debug</tipo>
+<metodo>amb: TEST / sub: CLI / data: C:\Projeto\Fontes Atual\Bin\Dados\CLI_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 09:46:18</data>
+<tipo>Debug</tipo>
+<metodo>amb: TEST / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 09:46:29</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 11:56:29</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 11:56:29</data>
+<tipo>Debug</tipo>
+<metodo>amb: TEST / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 11:56:29</data>
+<tipo>Debug</tipo>
+<metodo>amb: TEST / sub: CLI / data: C:\Projeto\Fontes Atual\Bin\Dados\CLI_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 11:56:29</data>
+<tipo>Debug</tipo>
+<metodo>amb: TEST / sub: CLI / data: C:\Projeto\Fontes Atual\Bin\Dados\CLI_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 11:56:30</data>
+<tipo>Debug</tipo>
+<metodo>amb: TEST / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 11:56:35</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 11:56:47</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 11:57:18</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar bancos</metodo>
+<message>TfrmMain.AtualizaAdmEmpresa</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+ADM_EMPRESA
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 11:57:18</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 11:57:18</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 11:57:25</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 11:57:35</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 11:57:35</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_CAD_CLIENTE</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 11:57:35</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_CONDPGTOC</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 11:57:35</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 11:57:35</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 11:57:35</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_FCR_REC_FV</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 11:57:35</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 11:57:35</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_BANCO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 11:57:35</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_CONTA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 11:57:35</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_MOEDA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 11:57:35</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 11:58:32</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 12:16:20</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 12:16:21</data>
+<tipo>Debug</tipo>
+<metodo>amb: TEST / sub: CLI / data: C:\Projeto\Fontes Atual\Bin\Dados\CLI_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 12:16:21</data>
+<tipo>Debug</tipo>
+<metodo>amb: TEST / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 12:16:30</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 12:17:31</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 12:17:31</data>
+<tipo>Debug</tipo>
+<metodo>amb: TEST / sub: CLI / data: C:\Projeto\Fontes Atual\Bin\Dados\CLI_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 12:17:32</data>
+<tipo>Debug</tipo>
+<metodo>amb: TEST / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 12:17:37</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 12:23:37</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 12:29:38</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:13</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:13</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:13</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:19</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar pedido serv</metodo>
+<message>TfrmMain.AtualizaPedidosServ</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_PEDIDO
+At line 1, column 25 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:19</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:19</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar receber serv</metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_RECEBER_REC
+At line 1, column 30 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:24</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar pedido serv</metodo>
+<message>TfrmMain.AtualizaPedidosServ</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_PEDIDO
+At line 1, column 25 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:24</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar receber serv</metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_RECEBER_REC
+At line 1, column 30 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:29</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar pedido serv</metodo>
+<message>TfrmMain.AtualizaPedidosServ</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_PEDIDO
+At line 1, column 25 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:29</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar receber serv</metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_RECEBER_REC
+At line 1, column 30 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:33</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:33</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar bancos</metodo>
+<message>TfrmMain.AtualizaAdmEmpresa</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]violation of FOREIGN KEY constraint "CAD_CIDADE_ADM_EMPRESA" on table "ADM_EMPRESA"
+Foreign key reference target does not exist
+Problematic key value is ("CODCIDADE" = 0) / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:33</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:33</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar usuarios</metodo>
+<message>TfrmMain.AtualizaUsuarios</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_USUARIO
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:33</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:33</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar vendedores</metodo>
+<message>TfrmMain.AtualizaVendedores</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_VENDEDOR
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:33</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:33</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao executar comando / pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_PRODUTO
+At line 1, column 13 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:33</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar produtos</metodo>
+<message>TfrmMain.AtualizaProdutos</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_PRODUTO
+At line 1, column 13 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:33</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:33</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao executar comando / pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_CLIENTE
+At line 1, column 13 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:33</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar clientes</metodo>
+<message>TfrmMain.AtualizaClientes</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_CLIENTE
+At line 1, column 13 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:33</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_CONDPGTOC</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:33</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:33</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao executar comando / pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_COND_PAGTO
+At line 1, column 13 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:33</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar cond. pagto</metodo>
+<message>TfrmMain.AtualizaCondicaoPagto</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_COND_PAGTO
+At line 1, column 13 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:33</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:33</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao executar comando / pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_RECEBER
+At line 1, column 13 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:33</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar receber</metodo>
+<message>TfrmMain.AtualizaReceber</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_RECEBER
+At line 1, column 13 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:33</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_BANCO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:33</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar bancos</metodo>
+<message>TfrmMain.AtualizaBanco</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_BANCO
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:33</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_CONTA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:33</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar contas</metodo>
+<message>TfrmMain.AtualizaConta</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_CONTA
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:33</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_MOEDA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:33</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar moedas</metodo>
+<message>TfrmMain.AtualizaMoeda</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_MOEDA
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:33</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:33</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao efetuar consulta / pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+CAD_RECIBO
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:33</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar recibos</metodo>
+<message>TfrmMain.AtualizaRecibo</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+CAD_RECIBO
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:34</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar pedido serv</metodo>
+<message>TfrmMain.AtualizaPedidosServ</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_PEDIDO
+At line 1, column 25 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:13:34</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar receber serv</metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_RECEBER_REC
+At line 1, column 30 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:34</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:34</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:34</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:39</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar pedido serv</metodo>
+<message>TfrmMain.AtualizaPedidosServ</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_PEDIDO
+At line 1, column 25 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:39</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:39</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar receber serv</metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_RECEBER_REC
+At line 1, column 30 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:42</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:42</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar bancos</metodo>
+<message>TfrmMain.AtualizaAdmEmpresa</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]violation of FOREIGN KEY constraint "CAD_CIDADE_ADM_EMPRESA" on table "ADM_EMPRESA"
+Foreign key reference target does not exist
+Problematic key value is ("CODCIDADE" = 0) / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:42</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:42</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar usuarios</metodo>
+<message>TfrmMain.AtualizaUsuarios</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_USUARIO
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:42</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:42</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar vendedores</metodo>
+<message>TfrmMain.AtualizaVendedores</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_VENDEDOR
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:42</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:42</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao executar comando / pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_PRODUTO
+At line 1, column 13 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:42</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar produtos</metodo>
+<message>TfrmMain.AtualizaProdutos</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_PRODUTO
+At line 1, column 13 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:42</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:42</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao executar comando / pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_CLIENTE
+At line 1, column 13 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:42</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar clientes</metodo>
+<message>TfrmMain.AtualizaClientes</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_CLIENTE
+At line 1, column 13 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:42</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_CONDPGTOC</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:42</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:42</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao executar comando / pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_COND_PAGTO
+At line 1, column 13 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:42</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar cond. pagto</metodo>
+<message>TfrmMain.AtualizaCondicaoPagto</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_COND_PAGTO
+At line 1, column 13 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:42</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:42</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao executar comando / pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_RECEBER
+At line 1, column 13 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:42</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar receber</metodo>
+<message>TfrmMain.AtualizaReceber</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_RECEBER
+At line 1, column 13 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:42</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_BANCO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:42</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar bancos</metodo>
+<message>TfrmMain.AtualizaBanco</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_BANCO
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:42</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_CONTA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:42</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar contas</metodo>
+<message>TfrmMain.AtualizaConta</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_CONTA
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:42</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_MOEDA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:42</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar moedas</metodo>
+<message>TfrmMain.AtualizaMoeda</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_MOEDA
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:42</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:42</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao efetuar consulta / pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+CAD_RECIBO
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:42</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar recibos</metodo>
+<message>TfrmMain.AtualizaRecibo</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+CAD_RECIBO
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:44</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar pedido serv</metodo>
+<message>TfrmMain.AtualizaPedidosServ</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_PEDIDO
+At line 1, column 25 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:44</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar receber serv</metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_RECEBER_REC
+At line 1, column 30 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:49</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar pedido serv</metodo>
+<message>TfrmMain.AtualizaPedidosServ</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_PEDIDO
+At line 1, column 25 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:49</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar receber serv</metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_RECEBER_REC
+At line 1, column 30 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:54</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar pedido serv</metodo>
+<message>TfrmMain.AtualizaPedidosServ</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_PEDIDO
+At line 1, column 25 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:54</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar receber serv</metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_RECEBER_REC
+At line 1, column 30 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:57</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:57</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar bancos</metodo>
+<message>TfrmMain.AtualizaAdmEmpresa</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]violation of FOREIGN KEY constraint "CAD_CIDADE_ADM_EMPRESA" on table "ADM_EMPRESA"
+Foreign key reference target does not exist
+Problematic key value is ("CODCIDADE" = 0) / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:57</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:57</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar usuarios</metodo>
+<message>TfrmMain.AtualizaUsuarios</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_USUARIO
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:57</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:57</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar vendedores</metodo>
+<message>TfrmMain.AtualizaVendedores</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_VENDEDOR
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:57</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:57</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao executar comando / pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_PRODUTO
+At line 1, column 13 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:57</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar produtos</metodo>
+<message>TfrmMain.AtualizaProdutos</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_PRODUTO
+At line 1, column 13 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:57</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:57</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao executar comando / pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_CLIENTE
+At line 1, column 13 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:57</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar clientes</metodo>
+<message>TfrmMain.AtualizaClientes</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_CLIENTE
+At line 1, column 13 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:57</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_CONDPGTOC</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:57</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:57</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao executar comando / pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_COND_PAGTO
+At line 1, column 13 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:57</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar cond. pagto</metodo>
+<message>TfrmMain.AtualizaCondicaoPagto</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_COND_PAGTO
+At line 1, column 13 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:57</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:57</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao executar comando / pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_RECEBER
+At line 1, column 13 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:57</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar receber</metodo>
+<message>TfrmMain.AtualizaReceber</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_RECEBER
+At line 1, column 13 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:57</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_BANCO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:57</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar bancos</metodo>
+<message>TfrmMain.AtualizaBanco</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_BANCO
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:57</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from FCC_CONTA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:57</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar contas</metodo>
+<message>TfrmMain.AtualizaConta</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_CONTA
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:57</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_MOEDA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:57</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar moedas</metodo>
+<message>TfrmMain.AtualizaMoeda</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_MOEDA
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:57</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:57</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao efetuar consulta / pCmd: select * from CAD_RECIBO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+CAD_RECIBO
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:57</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar recibos</metodo>
+<message>TfrmMain.AtualizaRecibo</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+CAD_RECIBO
+At line 1, column 15 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:59</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar pedido serv</metodo>
+<message>TfrmMain.AtualizaPedidosServ</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_PEDIDO
+At line 1, column 25 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:14:59</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar receber serv</metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_RECEBER_REC
+At line 1, column 30 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:15:04</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar pedido serv</metodo>
+<message>TfrmMain.AtualizaPedidosServ</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_PEDIDO
+At line 1, column 25 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:15:04</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar receber serv</metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_RECEBER_REC
+At line 1, column 30 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:15:09</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar pedido serv</metodo>
+<message>TfrmMain.AtualizaPedidosServ</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_PEDIDO
+At line 1, column 25 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:15:09</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar receber serv</metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_RECEBER_REC
+At line 1, column 30 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:15:14</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar pedido serv</metodo>
+<message>TfrmMain.AtualizaPedidosServ</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_PEDIDO
+At line 1, column 25 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:15:14</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar receber serv</metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_RECEBER_REC
+At line 1, column 30 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:15:19</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar pedido serv</metodo>
+<message>TfrmMain.AtualizaPedidosServ</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_PEDIDO
+At line 1, column 25 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:15:19</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar receber serv</metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_RECEBER_REC
+At line 1, column 30 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:15:24</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar pedido serv</metodo>
+<message>TfrmMain.AtualizaPedidosServ</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_PEDIDO
+At line 1, column 25 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:15:24</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar receber serv</metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_RECEBER_REC
+At line 1, column 30 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:15:29</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar pedido serv</metodo>
+<message>TfrmMain.AtualizaPedidosServ</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_PEDIDO
+At line 1, column 25 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:15:29</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar receber serv</metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_RECEBER_REC
+At line 1, column 30 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:15:34</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar pedido serv</metodo>
+<message>TfrmMain.AtualizaPedidosServ</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_PEDIDO
+At line 1, column 25 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:15:34</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar receber serv</metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]Dynamic SQL Error
+SQL error code = -204
+Table unknown
+TB_RECEBER_REC
+At line 1, column 30 / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:15:45</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:15:46</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:15:46</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:17:02</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:17:02</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:17:03</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:29:34</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:29:34</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:29:34</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:29:43</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:32:44</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:32:45</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:32:45</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:34:22</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:34:22</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:34:23</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:34:41</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:35:08</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:35:32</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:35:33</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:35:36</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:35:55</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar produtos</metodo>
+<message>TfrmMain.AtualizaProdutos</message>
+<gerador></gerador>
+<exception>qryProdutosCli: Field 'QTFISICA' not found / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:35:55</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:35:55</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_CAD_CLIENTE</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:35:57</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_CONDPGTOC</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:35:57</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:35:57</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:35:57</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_FCR_REC_FV</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:35:57</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:38:36</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:38:36</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:38:36</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:38:41</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:38:49</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:38:53</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:38:53</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:38:55</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:39:47</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:39:47</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_CAD_CLIENTE</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:39:48</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_CONDPGTOC</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:39:48</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:39:48</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:39:49</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_FCR_REC_FV</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:39:49</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:41:32</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:41:32</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:41:32</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:41:37</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:41:42</data>
+<tipo>Erro</tipo>
+<metodo>Falha de execucao</metodo>
+<message>TClsApplication.OnException</message>
+<gerador></gerador>
+<exception>Not enough timers available / </exception>
+</log>
+
+<log>
+<data>28/06/2022 14:47:41</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:52:27</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:52:27</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:52:27</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:52:27</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:52:42</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:52:42</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_CAD_CLIENTE</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:52:44</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_CONDPGTOC</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:52:44</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:52:44</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:52:44</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_FCR_REC_FV</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 14:52:44</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 16:43:10</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 16:43:10</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 16:53:03</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>28/06/2022 16:53:03</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+

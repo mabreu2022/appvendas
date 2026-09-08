@@ -1,0 +1,18 @@
+<log>
+<data>23/09/2020 08:11:49</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 20.09.22</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>23/09/2020 08:11:49</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\Projetos\SGLoja\Sistema\Dados\CLI_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+

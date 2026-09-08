@@ -1,0 +1,1579 @@
+<log>
+<data>13/07/2022 09:50:17</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 09:50:17</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 09:50:18</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 09:50:18</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 09:50:23</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select gen_id(SQ_MOV_REC_SAI_EMP1,1) as ultimo from RDB$DATABASE</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 09:50:23</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select codmoeda from ADM_PARAM</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 09:50:23</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select nome from TB_CLIENTE where codigo='1843'</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 09:51:48</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 09:51:48</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 09:51:48</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 09:51:48</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 09:54:08</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 09:54:08</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 09:54:08</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 09:54:08</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 09:56:37</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 09:56:37</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 09:56:37</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 09:56:37</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 09:56:43</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select gen_id(SQ_MOV_REC_SAI_EMP1,1) as ultimo from RDB$DATABASE</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 09:56:43</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select codmoeda from ADM_PARAM</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 09:56:43</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select nome from TB_CLIENTE where codigo='1843'</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 09:58:45</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 09:58:45</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 09:58:45</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 09:58:45</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 09:58:50</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select gen_id(SQ_MOV_REC_SAI_EMP1,1) as ultimo from RDB$DATABASE</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 09:58:50</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select codmoeda from ADM_PARAM</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 09:58:50</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select nome from TB_CLIENTE where codigo='1843'</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 09:59:59</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 09:59:59</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 10:00:00</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 10:00:00</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 10:00:05</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select gen_id(SQ_MOV_REC_SAI_EMP1,1) as ultimo from RDB$DATABASE</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 10:00:05</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select codmoeda from ADM_PARAM</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 10:00:05</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select nome from TB_CLIENTE where codigo='1843'</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 10:02:52</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 10:02:52</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 10:02:52</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 10:02:52</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 10:02:57</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select gen_id(SQ_MOV_REC_SAI_EMP1,1) as ultimo from RDB$DATABASE</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 10:02:57</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select codmoeda from ADM_PARAM</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 10:02:57</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select nome from TB_CLIENTE where codigo='1843'</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 10:04:49</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 10:04:49</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 10:04:49</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 10:04:49</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 10:04:55</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select gen_id(SQ_MOV_REC_SAI_EMP1,1) as ultimo from RDB$DATABASE</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 10:04:55</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select codmoeda from ADM_PARAM</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 10:04:55</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select nome from TB_CLIENTE where codigo='1843'</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 10:35:13</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 10:35:13</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 10:35:13</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 10:35:13</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 10:35:18</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select gen_id(SQ_MOV_REC_SAI_EMP1,1) as ultimo from RDB$DATABASE</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 10:35:18</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select codmoeda from ADM_PARAM</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 10:35:18</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select nome from TB_CLIENTE where codigo='1843'</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 10:40:12</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 10:40:12</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 10:40:12</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 10:40:12</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 10:40:17</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select gen_id(SQ_MOV_REC_SAI_EMP1,1) as ultimo from RDB$DATABASE</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 10:40:17</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select codmoeda from ADM_PARAM</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 10:40:17</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select nome from TB_CLIENTE where codigo='1843'</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 11:50:06</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 11:50:06</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 11:50:06</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 11:50:06</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 11:50:12</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select gen_id(SQ_MOV_REC_SAI_EMP1,1) as ultimo from RDB$DATABASE</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 11:50:12</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select codmoeda from ADM_PARAM</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 11:50:12</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select nome from TB_CLIENTE where codigo='1843'</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 11:51:09</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 11:51:09</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 11:51:10</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 11:51:10</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 11:51:15</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select gen_id(SQ_MOV_REC_SAI_EMP1,1) as ultimo from RDB$DATABASE</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 11:51:15</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select codmoeda from ADM_PARAM</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 11:51:15</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select nome from TB_CLIENTE where codigo='1843'</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 11:51:41</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar pedido serv</metodo>
+<message>TfrmMain.AtualizaPedidosServ</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]conversion error from string "038F2497AD054DF38532E1BDDA1D6D4C"
+conversion error from string "038F2497AD054DF38532E1BDDA1D6D4C"
+conversion error from string "038F2497AD054DF38532E1BDDA1D6D4C" / </exception>
+</log>
+
+<log>
+<data>13/07/2022 11:51:41</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 11:51:41</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select gen_id(SQ_MOV_REC_SAI_EMP1,1) as ultimo from RDB$DATABASE</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 11:51:41</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select codmoeda from ADM_PARAM</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 11:51:41</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select nome from TB_CLIENTE where codigo='1843'</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 11:51:42</data>
+<tipo>Erro</tipo>
+<metodo>Erro ao atualizar pedido serv</metodo>
+<message>TfrmMain.AtualizaPedidosServ</message>
+<gerador></gerador>
+<exception>[FireDAC][Phys][FB]conversion error from string "038F2497AD054DF38532E1BDDA1D6D4C"
+conversion error from string "038F2497AD054DF38532E1BDDA1D6D4C"
+conversion error from string "038F2497AD054DF38532E1BDDA1D6D4C" / </exception>
+</log>
+
+<log>
+<data>13/07/2022 11:51:45</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select gen_id(SQ_MOV_REC_SAI_EMP1,1) as ultimo from RDB$DATABASE</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 11:51:45</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select codmoeda from ADM_PARAM</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 11:51:45</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select nome from TB_CLIENTE where codigo='1843'</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 11:52:09</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 11:52:09</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 11:52:09</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 11:52:09</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 11:52:14</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select gen_id(SQ_MOV_REC_SAI_EMP1,1) as ultimo from RDB$DATABASE</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 11:52:14</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select codmoeda from ADM_PARAM</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 11:52:14</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select nome from TB_CLIENTE where codigo='1843'</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:01:14</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:01:14</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:01:14</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:01:14</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:01:14</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:01:19</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select gen_id(SQ_MOV_REC_SAI_EMP1,1) as ultimo from RDB$DATABASE</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:01:19</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select codmoeda from ADM_PARAM</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:01:19</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select nome from TB_CLIENTE where codigo='1843'</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:04:15</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:04:15</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:04:15</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:04:21</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select gen_id(SQ_MOV_REC_SAI_EMP1,1) as ultimo from RDB$DATABASE</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:04:21</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select codmoeda from ADM_PARAM</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:04:21</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select nome from TB_CLIENTE where codigo='1843'</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:06:11</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:06:11</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:06:11</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:06:16</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select gen_id(SQ_MOV_REC_SAI_EMP1,1) as ultimo from RDB$DATABASE</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:06:16</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select codmoeda from ADM_PARAM</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:06:16</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select nome from TB_CLIENTE where codigo='1843'</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:11:22</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:11:22</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:11:22</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:11:27</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select gen_id(SQ_MOV_REC_SAI_EMP1,1) as ultimo from RDB$DATABASE</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:11:27</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select codmoeda from ADM_PARAM</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:11:27</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select nome from TB_CLIENTE where codigo='1843'</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:12:33</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:12:33</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:12:33</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:12:38</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select gen_id(SQ_MOV_REC_SAI_EMP1,1) as ultimo from RDB$DATABASE</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:12:38</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select codmoeda from ADM_PARAM</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:12:38</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select nome from TB_CLIENTE where codigo='1843'</metodo>
+<message>TClsConexao.GetValue</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:12:42</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:12:52</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:12:52</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:12:52</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:12:56</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PRODUTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:12:56</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_PRD_PRDVL_FV</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:12:56</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_PRODUTO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:25:49</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:25:49</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:25:49</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:25:49</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:25:54</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:25:55</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:25:55</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:25:55</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:29:21</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:29:21</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:29:21</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:29:21</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:29:26</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:29:30</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:29:30</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:29:30</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:31:42</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:31:42</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:31:43</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:31:43</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:31:45</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:31:45</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:31:45</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:31:48</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:32:25</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_CLIENTE</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:32:25</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_CAD_CLIENTE</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:32:26</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_CONDPGTOC</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:32:26</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_COND_PAGTO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:32:26</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_PEDIDO</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:32:26</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from MOV_RESC where 1 = 2</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:32:27</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_PEDIDO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:32:27</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: delete from TB_RECEBER</metodo>
+<message>TClsConexao.ExecComand</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:32:27</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from V_FCR_REC_FV</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:32:27</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:33:07</data>
+<tipo>Info</tipo>
+<metodo>entrada / versao: 22.02.18</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:33:07</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:33:07</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\System\SGLoja\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:33:07</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: FB / data: C:\Projeto\Fontes Atual\Bin\Dados\FB_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:33:13</data>
+<tipo>Debug</tipo>
+<metodo>SQL: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TfrmMain.AtualizaReceberServ</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:33:14</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_EMPRESA</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:33:14</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from ADM_USUARIO</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>13/07/2022 12:33:14</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from CAD_VEND</metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+

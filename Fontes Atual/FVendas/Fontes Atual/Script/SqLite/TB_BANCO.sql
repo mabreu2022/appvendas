@@ -1,0 +1,8 @@
+create table TB_BANCO (
+  NRO_CODIGO  Integer     NOT NULL,
+  NRO_BANCO   Integer     NOT NULL,
+  NRO_AGENCIA Varchar(10) NOT NULL,
+  DESC_BANCO  Varchar(40) NOT NULL,
+  SIT_BANCO   Integer     NOT NULL,
+  PRIMARY KEY (NRO_CODIGO)
+);

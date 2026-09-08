@@ -1,0 +1,81 @@
+<log>
+<data>15/09/2020 18:19:22</data>
+<tipo>Debug</tipo>
+<metodo>amb: PROD / sub: CLI / data: C:\Projetos\SGLoja\Sistema\Dados\CLI_DADOS.FDB / user: SYSDBA / pass: key2624</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>15/09/2020 18:19:27</data>
+<tipo>Info</tipo>
+<metodo>entrada</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>15/09/2020 18:19:58</data>
+<tipo>Debug</tipo>
+<metodo>amb: TEST / sub: CLI / data: C:\Projetos\Delphi\camargo\FVENDAS\Bin\\Dados\CLI_DADOS.FDB / user: SYSDBA / pass: masterkey</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>15/09/2020 18:20:01</data>
+<tipo>Debug</tipo>
+<metodo>amb: TEST / sub: FB / data: C:\Projetos\Delphi\camargo\FVENDAS\Bin\\Dados\FB_DADOS.FDB / user: SYSDBA / pass: masterkey</metodo>
+<message>TClsDatabaseConfig.GetDatabase</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>15/09/2020 18:20:14</data>
+<tipo>Info</tipo>
+<metodo>entrada</metodo>
+<message>fvServidor</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>15/09/2020 18:20:19</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>15/09/2020 18:20:24</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>15/09/2020 18:20:29</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+
+<log>
+<data>15/09/2020 18:20:34</data>
+<tipo>Debug</tipo>
+<metodo>pCmd: select * from TB_RECEBER_REC where coalesce(SIT_CONTROLE,'') <> 'P' </metodo>
+<message>TClsConexao.GetQuery</message>
+<gerador></gerador>
+<exception></exception>
+</log>
+

@@ -1,0 +1,11 @@
+create table TB_CONTA (
+  COD_EMPRESA Integer     NOT NULL,
+  NRO_CODIGO  Integer     NOT NULL,
+  NRO_BANCO   Integer     NOT NULL,
+  COD_CONTA   Varchar(20) NOT NULL,
+  DESC_CONTA  Varchar(30) NOT NULL,
+  TIP_CONTA   Integer     NOT NULL,
+  SIT_CONTA   Varchar(1)  NOT NULL,
+  COD_MOEDA   Integer     NOT NULL,
+  CONSTRAINT TB_CONTA_PK PRIMARY KEY (COD_EMPRESA, NRO_CODIGO)
+);
