@@ -99,13 +99,23 @@ var
   vLista: TStringList;
   I: Integer;
 begin
-  vLista := TClsPrinterBluetooth.ListarDispositivosPareados;
-  with ComboBox1.Items do
-  begin
-    Clear;
-    Add(uPrinterBluetooth.cSelecionarImpressora);
-    for I := 0 to vLista.Count - 1 do
-      Add(vLista[I]);
+  try
+    vLista := TClsPrinterBluetooth.ListarDispositivosPareados;
+    try
+      with ComboBox1.Items do
+      begin
+        Clear;
+        Add(uPrinterBluetooth.cSelecionarImpressora);
+        if Assigned(vLista) then
+        begin
+          for I := 0 to vLista.Count - 1 do
+            Add(vLista[I]);
+        end;
+      end;
+    finally
+      vLista.Free;
+    end;
+  except
   end;
 end;
 
@@ -121,11 +131,19 @@ begin
   Edit3.Text := dmBanco.serial;
   Edit4.Text := dmBanco.qryConfRECIBO.AsString;
 
+  try
+    CarregarImpressora;
+  except
+  end;
+
   with ComboBox1, ComboBox1.Items do
   begin
-    ItemIndex := 0;
-    if dmBanco.qryConfIMPRESSORA.asString <> '' then
-      ItemIndex := IndexOf(dmBanco.qryConfIMPRESSORA.asString);
+    if (dmBanco.qryConfIMPRESSORA.AsString <> '') and (IndexOf(dmBanco.qryConfIMPRESSORA.AsString) >= 0) then
+      ItemIndex := IndexOf(dmBanco.qryConfIMPRESSORA.AsString)
+    else if Count > 0 then
+      ItemIndex := 0
+    else
+      ItemIndex := -1;
   end;
 end;
 
